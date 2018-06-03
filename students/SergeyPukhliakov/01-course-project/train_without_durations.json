@@ -1,0 +1,1751 @@
+[
+    {
+        "email": {
+            "date": "Mon, 6 Aug 2001 12:12:37 -0700 (PDT)",
+            "subject": "Storage Valuation Meeting",
+            "payload": "Please plan on attending meeting to discuss Storage Valuation, on:\nDate:    Wednesday August 15, 2001\nTime:     3:00pm - 4:00pm\nPlace:    EB32c2\nThank You,\nVanessa Berrios\nAdministrative Assistant \nfor Rita Wynne & Mark McClure\n(713)345-4197"
+        },
+        "meetings": [
+            {
+                "subj": "Storage Valuation Meeting",
+                "loc": "EB32c2",
+                "start": "2001-08-15 15:00:00",
+                "end": "2001-08-15 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 17 Jan 2002 08:49:37 -0800 (PST)",
+            "subject": "Front Office NETCO Testing",
+            "payload": "Hi,\nLet us plan to meet to perform preliminary integration testing for the Front Office for NETCO. We are working on completing the front office application migration by early afternoon. The objectives for this meeting will be:\n1. Validate front office deal entry scenarios for EOL, Sitara, EnPower, TDS and TAGG/ERMS\n2. Execute sample scenarios\n3. Review the integration testing effort for tomorrow with connectivity to the back office applications\nPlease let us know if you have any questions.\nThanks\nAftab"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, Oct 24, 2017 at 7:02 PM",
+            "subject": "Reminder for #kievfprog: Clojure with Takeoff",
+            "payload": "Find events My Tickets  \n  \n---|---  \n|  |  \n---  \n  \n##  #kievfprog: Clojure with Takeoff is Thursday at 7:00 PM\nOrganized by Vladimir Kirillov @ #kievfprog  \n  \n|  \n---  \n  \n##  Don't forget your tickets\n|  |  Mobile Tickets  \n---  \n|  |  Available on  \nApp Store  \n---|---  \n|  \n---  \n|  |  Add to  \nWallet  \n---|---  \nor  \n---  \n|  Paper Tickets  \n---  \n  \nOpen the email attachment  \nor download here  \n  \n|  \n---  \n  \n##  Questions about this event?\n|\nContact the organizer at vlad@kirillov.im  \n  \n---  \n|  \n---  \n|\n##  About this event\n|  |\nThursday, October 26, 2017 from 7:00 PM to 9:00 PM (EEST)  \n  \n---|---  \n|  Takeoff Technologies Kyiv HQ  \nSaksahanskoho Street 40/85  \nFloor 6  \nKyiv  \nUkraine  \n|\nAdd to my calendar:\nGoogle \u00b7 Outlook \u00b7 iCal \u00b7 Yahoo  \n  \n---  \n---  \n|  |  |  |\n##  Create your own event\nAnyone can sell tickets or manage registration with Eventbrite.\nLearn More  \n  \n---  \n|  \n---  \n|  |  |  |\n##  Discover great events\nFind local events that match your passions.\nSee events  \n  \n---  \n|  \n---  \n|  \n---"
+        },
+        "meetings": [
+            {
+                "subj": "#kievfprog: Clojure with Takeoff",
+                "loc": "Takeoff Technologies Kyiv HQ Saksahanskoho Street 40/85 Floor 6 Kyiv Ukraine",
+                "start": "2017-10-26 19:00:00",
+                "end": "2017-10-26 21:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 19 Nov 2001 19:09:06 -0800 (PST)",
+            "subject": "Updated: Upcoming changes at the CAISO:  penalties for uninstructed\n deviation, change in the alloction of above-MCP costs [CT 487]",
+            "payload": "Second try (couldn't get you all together on Monday)."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 20 Aug 2001 10:13:49 -0700 (PDT)",
+            "subject": "Enhanced Limit Orders",
+            "payload": "This is to confirm the meeting that is scheduled today at 3:00 pm Central Time in EB3321 regarding Enhanced Limit Orders.  I will call Portland and Calgary.\nThe attendees are:\nJohn Arnold\nTom Martin\nMike Grigsby\nPhillip Allen\nScott Neal\nHunter Shively\nJohn Zufferli\nKevin Presto\nTim Belden\nFletch Sturm\nDana Davis\nMike Swerzbin\nPlease let me know if you have any questions.\nThanks\nKim Hillis"
+        },
+        "meetings": [
+            {
+                "subj": "Enhanced Limit Orders",
+                "loc": "EB3321",
+                "start": "2001-08-20 15:00:00",
+                "end": "2001-08-20 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 30 Oct 2001 14:14:52 -0800 (PST)",
+            "subject": "Updated: September OPM Reports",
+            "payload": "The September OPM Reports meeting, originally scheduled for today at 3pm has been moved to Friday at 2pm in EB3143b.  \nIf you are not able to attend,  please send someone in your place.  \nThank you.  "
+        },
+        "meetings": [
+            {
+                "subj": "September OPM Reports",
+                "loc": "EB3143b",
+                "start": "2001-11-02 14:00:00",
+                "end": "2001-11-02 15:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 29 Oct 2001 09:23:54 -0800 (PST)",
+            "subject": "ECS 03990 - ENW Employee Breakfast",
+            "payload": "Please join us for breakfast on Wednesday, October 31 at 8:30 a.m. in Enron Center South 03990 Conference Room.  You can ask the receptionist on the 3rd floor for directions to the conference room.\nThis informal get-together is being held to discuss events occurring at the company, see what management can do going forward and ways we can improve employee morale. \nWe look forward to seeing you there.\nGreg Piper, Sally Beck and Mark Pickering"
+        },
+        "meetings": [
+            {
+                "subj": "ENW Employee Breakfast",
+                "loc": "Enron Center South 03990 Conference Room",
+                "start": "2001-10-31 08:30:00",
+                "end": "2001-10-31 09:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 26 Dec 2000 05:30:00 -0800 (PST)",
+            "subject": "Jan Volumes",
+            "payload": "These are the Market Volumes I have in Sitara for New Power for January and \nthe assumptions I'm making.\nPipeline Volume (daily)  Point  Comment\nCNG  4100  South Point Scheduled by New Power\nCGAS  4064  Pool  NX1 - will bookout and include in Citygate deal\n  2013  Pool  NX1 - will bookout and include in Citygate deal\n  1301  Pool  From CGLF mainline, will bookout and include in Citygate deal\n  24301  Citygate Exhibit 1 max volume for Jan 2001.\nCGAS  30000  Pool  IF + $.04, scheduled by New Power\nTetco  215  M3  Scheduled by New Power unless sold back to ENA\nTrco  475  Z6 Non NY Scheduled by New Power unless sold back to ENA."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 19 Nov 2001 13:29:30 -0800 (PST)",
+            "subject": "Consolidated Gas System - Reporting",
+            "payload": "Kam:  I am asking that we spend 30 minutes going over the questions that I sent out Friday.  I kept the same time since we had a room for that time slot but I know you guys have been really busy with the move so let me know if there is another time that would be better for you.\nMonica Clay\nx57227"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 8 Nov 2001 12:47:02 -0800 (PST)",
+            "subject": "Updated: Texas Intrastate Regulatory Issues",
+            "payload": "Note change from Thursday at 3:30 to Friday at 1:30, due to last minute conflict."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 1 Feb 2002 07:46:29 -0800 (PST)",
+            "subject": "East Power UBS Start-Up Project - Coordination Meeting",
+            "payload": "We are ready to bring the East Power UBS_Start_Up group back together again to accomplish the following objectives:\n1) review the Start-Up Gantt Chart taking us from UBS Launch date (approx 2/11/02) through 60 days\n2) assign resources to the Gantt chart\n3) discuss common drive to store all start_up information\n4) discuss interaction with west power and gas projects\n5) review final actions"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 22 Aug 2001 05:53:19 -0700 (PDT)",
+            "subject": "Management Committee Mtg. offsite dinner at the Woodlands 6:00PM\n Cocktails / 6:30PM Dinner",
+            "payload": "The Woodlands Resort & Conf. Center\n2301 N. Millbend Drive\nThe Woodlands, TX 77380\n281-367-1100"
+        },
+        "meetings": [
+            {
+                "subj": "Management Committee Mtg",
+                "loc": "The Woodlands Resort & Conf. Center 2301 N. Millbend Drive The Woodlands",
+                "start": "2001-08-22 18:00:00",
+                "end": "2001-08-22 19:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 26 Nov 2001 08:42:50 -0800 (PST)",
+            "subject": "Power World Update",
+            "payload": "When: Monday, November 26, 2001 4:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: Doug's desk\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "Power World Update",
+                "loc": "Doug's desk",
+                "start": "2001-11-26 16:00:00",
+                "end": "2001-11-26 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 24 Jan 2000 03:46:00 -0800 (PST)",
+            "subject": "Meeting with Bob Butts",
+            "payload": "This is scheduled for 2PM on Thursday 27th in his office EB1906. You are \nwelcome to join. I will give a overview of what we (Sandeep &co) are trying \nto do for DPC (Dabhol power) and ask him to clarify the mark-to-market issues \nrelated to those deals.\nKrishna."
+        },
+        "meetings": [
+            {
+                "subj": "Meeting with Bob Butts",
+                "loc": "EB1906",
+                "start": "2000-01-27 14:00:00",
+                "end": "2000-01-27 15:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 23 Oct 2001 07:12:34 -0700 (PDT)",
+            "subject": "Origination Staff Meeting",
+            "payload": "Please note,\nThe staff meeting scheduled for today will now take place at noon, in EB 3259 and not 4PM.  Please adjust your schedules.\nThank you,\nIrena Hogan\n(713) 853-6143"
+        },
+        "meetings": [
+            {
+                "subj": "Origination Staff Meeting",
+                "loc": "EB 3259",
+                "start": "2001-10-23 12:00:00",
+                "end": "2001-10-23 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 22 Oct 2001 19:57:48 -0700 (PDT)",
+            "subject": "French  slang",
+            "payload": "Dear Student,\nAttached please find your lesson.  You can open the attached Lesson as\nyou would any other attachment by downloading the attached file to one\nof your directories and then opening it in a browser. If you need\nadditional help in opening this attachment, please go to\nhttp://www.parlo.com/parlo21/help/faq/email_en.asp\nfor more instructions.\nIf you would like to receive Parlo's Lessons in html, please go to the\n'My Parlo' section of our website at\nhttp://www.parlo.com/parlo21/home/myparlo/myparlo_en.asp and change your\npreference to an html formatted lesson in our subscription center.\nThanks and we hope you enjoy today's lesson.\n--------------------------------------------------------------------------\nTo view your lesson online:\nPlease click here\nhttp://www.parlo.com/parlo21/emails/FREN/20011022/index.asp\nor copy and paste the above url into your browser.\n---------------------------------------------------------------------------\n - parlo.htm "
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 29 Aug 2001 11:01:02 -0700 (PDT)",
+            "subject": "Curve Validation Meeting",
+            "payload": "All-\nOur next validation meeting will be Thursday, September 6th from 9-10 a.m. in EB3587.  No meeting will be held tomorrow given yesterday's demonstration meeting.\nFor the next meeting we will discuss the draft validation process and take any comments/questions on the tools being developed.  Please review the process and presentation materials before the next meeting, and feel free to forward any iterim comments/questions to me as you have them.  \nDraft validation process\n \nPresentation materials from 8/28/01 demonstration\nThe demostration of tools that are being developed for curve selection and validation including: curve grabber, stale curve queries, historical bands and others.\n   \nRegards \nKC"
+        },
+        "meetings": [
+            {
+                "subj": "Curve Validation Meeting",
+                "loc": "EB3587",
+                "start": "2001-09-06 09:00:00",
+                "end": "2001-09-06 10:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 13 Dec 2001 06:38:40 -0800 (PST)",
+            "subject": "Midwest/Southeast Desk Meeting w/Fletch Sturm",
+            "payload": "Midwest/Southeast Desk Meeting w/Fletch Sturm\nWednesday,  December 19th  \n3 - 3:30pm\nRoom - 3125b"
+        },
+        "meetings": [
+            {
+                "subj": "Midwest/Southeast Desk Meeting w/Fletch Sturm",
+                "loc": "Room - 3125b",
+                "start": "2001-12-19 15:00:00",
+                "end": "2001-12-19 15:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 26 Nov 2001 08:42:50 -0800 (PST)",
+            "subject": "Power World Update",
+            "payload": "When: Monday, November 26, 2001 4:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: Doug's desk\n"
+        },
+        "meetings": [
+            {
+                "subj": "Power World Update",
+                "loc": "Doug's desk",
+                "start": "2001-11-26 16:00:00",
+                "end": "2001-11-26 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 17 Oct 2001 08:01:58 -0700 (PDT)",
+            "subject": "Origination Staff  Meeting EB 3270",
+            "payload": "PLEASE NOTE,\nTHE STAFF MEETING WILL NOW TAKE PLACE TODAY @ 12:30 PM, FOR 30 MINUTES, IN EB 3270.\nTHANK YOU\n"
+        },
+        "meetings": [
+            {
+                "subj": "STAFF MEETING",
+                "loc": "EB 3270",
+                "start": "2001-10-17 12:30:00",
+                "end": "2001-10-17 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Monday, February 22, 2016 3:24:17 PM",
+            "subject": "SPC Meeting 2/25",
+            "payload": "Dear Campus Community,            The next Strategic Planning Committee Meeting is this Thursday, February 25, 2016 3-4:30pm in A213. The agenda for that meeting and draft minutes for the previous meeting are attached.  Feel free to attend.           Thanks for your kind attention, Sean J. Abel  Dean of Humanities and Social Science      San Jose City College   2100 Moorpark Ave            San Jose, CA 95128"
+        },
+        "meetings": [
+            {
+                "subj": "Strategic Planning Committee Meeting",
+                "loc": "A213",
+                "start": "2016-02-25 15:00:00",
+                "end": "2016-02-25 16:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 5 Dec 2001 07:46:54 -0800 (PST)",
+            "subject": "IT Isolation",
+            "payload": "When: Wednesday, December 05, 2001 1:00 PM-1:30 PM (GMT-06:00) Central Time (US & Canada).\nWhere: ECS04-104\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "IT Isolation",
+                "loc": "ECS04-104",
+                "start": "2001-12-05 13:00:00",
+                "end": "2001-12-05 13:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Monday, January 14, 2008 1:17 PM",
+            "subject": "MEDIAK 2nd reminder recruiting and Open House",
+            "payload": "Hello all,\nHope everyone is having a great 2008! I wanted to see if you can pass on the word that\nMEDIAK is back and we're having an open house next Thursday, January 17 from 5:00 to 7:00\np.m.  The open house is a great chance for new students and their parents or guardians to\nsee what MEDIAK is all about. Of course there will be FREE FOOD and a chance to see what\nthe magazine, radio and video clubs are doing. Tell everyone to come by and have a snack\nand see what MEDIAK is producing. Once they're here, they'll be hooked. :o)\nQuyanagpak!!I  Thank you very much!\n1\nPRA GSP01 0010001\n"
+        },
+        "meetings": [
+            {
+                "subj": "MEDIAK 2nd reminder recruiting and Open House",
+                "loc": "",
+                "start": "2008-01-17 17:00:00",
+                "end": "2008-01-17 19:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 6 Nov 2001 13:03:27 -0800 (PST)",
+            "subject": "Flight confirmation",
+            "payload": "As per our phone conversation today, we have made plane and hotel arrangements for you for your trip to our plant. You are booked on Sky Airways flight #123, leaving Springfield at 8:00 a.m. on Monday, January 14, 2002. Arrival time is 9:15 a.m. Your return flight has been left open, as you requested. Tickets are being mailed to you directly from the airline.\nReservations have been made for you at the Logan Center Hotel for January 15 and January 16, 2002. The hotel has an excellent airport shuttle service though you may prefer to rent a car.\nI look forward to meeting you."
+        },
+        "meetings": [
+            {
+                "subj": "Sky Airways flight #123",
+                "loc": "Springfield",
+                "start": "2002-01-14 08:00:00",
+                "end": "2002-01-14 09:15:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 14 May 2001 01:57:00 -0700 (PDT)",
+            "subject": "option candlesticks as a hot link 5/14",
+            "payload": "The information contained herein is based on sources that we believe to be\nreliable, but we do not represent that it is accurate or complete.  Nothing\ncontained herein should be considered as an offer to sell or a solicitation\nof an offer to buy any financial instruments discussed herein.  Any\nopinions expressed herein are solely those of the author.  As such, they\nmay differ in material respects from those of, or expressed or published by\non behalf of Carr Futures or its officers, directors, employees or\naffiliates.  , 2001 Carr Futures\nThe charts are now available on the web by clicking on the hot link(s)\ncontained in this email. If for any reason you are unable to receive the\ncharts via the web, please contact me via email and I will email the charts\nto you as attachments.\nOption Candlesticks\nhttp://www.carrfut.com/research/Energy1/candlesticks41.pdf\nCarr Futures\n150 S. Wacker Dr., Suite 1500\nChicago, IL 60606  USA\nTel:  312-368-6149\nFax:  312-368-2281\nsoblander@carrfut.com\nhttp://www.carrfut.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 19 Jun 2002 11:07:07 -0700 (PDT)",
+            "subject": "BNP PARIBAS Commodity Futures EIA Survey......RESULTS!!",
+            "payload": "\nHere are this week's survey results.\nAVG            +81\nAVG w/o High & Low       +81\nMedian              +80\nStandard Deviation   7\n# of responses                   45\nHigh                     +95\nLow                       +61\nAGA Last Year       +106\nThank You!\nAnthony Carroll\nBNP PARIBAS\nThis message and any attachments (the \"message\") is\nintended solely for the addressees and is confidential. \nIf you receive this message in error, please delete it and \nimmediately notify the sender. Any use not in accord with \nits purpose, any dissemination or disclosure, either whole \nor partial, is prohibited except formal approval. The internet\ncan not guarantee the integrity of this message. \nBNP PARIBAS (and its subsidiaries) shall (will) not \ntherefore be liable for the message if modified. \n                ---------------------------------------------\nCe message et toutes les pieces jointes (ci-apres le \n\"message\") sont etablis a l'intention exclusive de ses \ndestinataires et sont confidentiels. Si vous recevez ce \nmessage par erreur, merci de le detruire et d'en avertir \nimmediatement l'expediteur. Toute utilisation de ce \nmessage non conforme a sa destination, toute diffusion \nou toute publication, totale ou partielle, est interdite, sauf \nautorisation expresse. L'internet ne permettant pas \nd'assurer l'integrite de ce message, BNP PARIBAS (et ses\nfiliales) decline(nt) toute responsabilite au titre de ce \nmessage, dans l'hypothese ou il aurait ete modifie."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 7 Mar 2001 00:24:00 -0800 (PST)",
+            "subject": "Many Power Deals Announced By Calif Gov Still Not Final",
+            "payload": "Many Power Deals Announced By Calif Gov Still Not Final\nBy Jason Leopold\n  \n03/07/2001 \nDow Jones Energy Service \n(Copyright (c) 2001, Dow Jones & Company, Inc.) \nOF DOW JONES NEWSWIRES \n   \n(This article was originally published Tuesday.)\nLOS ANGELES (Dow Jones)--Many of the long-term power supply contracts \nannounced by California Gov. Gray Davis this week remain under negotiation or \nare the subject of ongoing lawsuits, power suppliers said Tuesday. \nThe lack of finality to the deals raises questions about the state's success \nin covering its power needs, particularly going into what is expected to be \nan unusually tight summer. \nGenerators said privately they were surprised the governor went ahead with \nhis announcement Monday, given that many of the contracts haven't been signed.\nDavid Freeman, general manager of the Los Angeles Department of Water and \nPower, who negotiated the contracts on behalf of the state, conceded that \ndetails remain to be worked out. \n\"This is not a done deal,\" Freeman said, adding that credit concerns are \nkeeping generators from signing the deals. \nDavis announced Monday that California has secured 40 long-term contracts \nthat will provide California with about 629 million megawatt-hours of \nelectricity over 10 years, at a price of more than $40 billion. \nSeveral of those forward deals, however, involve contracts originally held by \nEdison International (EIX) unit Southern California Edison and PG&E Corp. \n(PCG) unit Pacific Gas & Electric at the California Power Exchange, \npreviously the state's main power market. \nThe governor seized those contracts earlier this year, just before the Power \nExchange liquidated them to cover hundreds of millions of dollars in power \nbills the utilities had failed to pay. \nThe contracts, which total about 1.3 million megawatt-hours of electricity \nand have a market value of about $1 billion, according to market sources, \nhave yet to be paid for or signed over to the state. Duke Energy (DUK), one \nof the suppliers that sold the contracts to Pacific Gas & Electric and \nSouthern California Edison, has sued Davis for unlawfully commandeering those \ncontracts. \nAlthough Duke has reached an interim settlement to continue providing power \nto the state Department of Water Resources until April 30, the company and \nthe Davis administration still have to \"develop a comprehensive long-term \nsettlement to pay for the power supply contracts,\" said Duke spokesman Tom \nWilliams. \nThe governor went ahead with the announcement, because the California \nDepartment of Water Resources believes it will be able to finalize and sign \nthe contracts over the next several weeks, Davis spokesman Steve Maviglio \nsaid. \nSeparately, several suppliers named in the governor's announcement Monday - \nincluding Duke, Reliant Energy Inc. (REI), Mirant Corp. (MIR), Sempra Energy \n(SRE), Enron Corp. (ENE) and Avista Corp. (AVA) - said they have yet to sign \nfinal agreements with the state, although negotiations were ongoing. \n\"We are working in good faith with the DWR toward a long-term contract,\" said \nArt Larson, spokesman for Sempra Energy Resources, a unit of Sempra Energy \n(SRE). Larson said Sempra signed a terms of agreement with the DWR and \nexpects to reach a final agreement over the next several weeks. \nReliant Energy said it has only signed a short-term contract with the state \nthat expires in about two weeks. The company will only sign a long-term \ncontract once it's paid more than $400 million owed by Pacific Gas & Electric \nand Southern California Edison, spokesman Richard Wheatley said. \nMirant Corp. said it also won't sign contracts with the state until it's \npaid. \nEnron said it's reached agreement on terms with the state, but has some \ncredit-related details to hammer out. \n\"Everything's been agreed to except for some credit technicalities,\" Enron \nspokesman Mark Palmer said. \n-By Jason Leopold, Dow Jones Newswires; 323-658-3874; \njason.leopold@dowjones.com\n \n  \nCopyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. "
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 7 Feb 2000 00:46:00 -0800 (PST)",
+            "subject": "February Issues",
+            "payload": "I am currently going over the February setup in UNIFY to locate current and \npotential problems for the month. If you like, I would be glad to get \ntogether tomorrow afternoon and review the problems just to give you an \noverview on what I see.\nLet me know.\nKen"
+        },
+        "meetings": [
+            {
+                "subj": "February Issues",
+                "loc": "",
+                "start": "2000-02-08 12:00:00",
+                "end": "2000-02-08 19:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 13 Dec 2000 18:41:00 -0800 (PST)",
+            "subject": "December 14, 2000 - Bear Stearns' predictions for telecom in Latin\n America",
+            "payload": "In today's Daily Update you'll find free reports on\nAmerica Online (AOL), Divine Interventures (DVIN),\nand 3M (MMM); reports on the broadband space, Latin\nAmerican telecom, and more.\nFor free research, editor's picks, and more come to the Daily Investor:\nhttp://www.multexinvestor.com/AF004627/magazinecover.asp?promo=unl&d=20001214#\ninvestor\n***************************************************************\nYou are receiving this mail because you have registered for\nMultex Investor. To unsubscribe, see bottom of this message.\n***************************************************************\n======================== Sponsored by ========================Would you own just the energy stocks in the S&P 500?\nSelect Sector SPDRs divides the S&P 500 into nine sector index funds.\nPick and choose just the pieces of the S&P 500 you like best.\nhttp://www.spdrindex.com\n==============================================================Featured in today's edition of the Daily Update:\n1. SPECIAL ANNOUNCEMENT: Treat yourself to Multex Investor's NEW Personal\nFinance Channel to take advantage of top-notch content and tools  FREE.\n2. DAILY FREE SPONSOR REPORT: Robertson Stephens maintains a \"buy\" rating\non Divine Interventures (DVIN).\n3. FREE RESEARCH REPORT: Jefferies & Co. rates America Online (AOL) a\n\"buy,\" saying projected growth remains in place.\n4. ASK THE ANALYST: Morgan Stanley Dean Witter's Lew Smith in the Analyst\nCorner\n5. HOT REPORT: Oscar Gruss & Son's most recent issue of its Broadband\nBrief reports the latest developments in the broadband space.\n6. EDITOR'S PICK: Bear Stearns measures the impact of broadband and the\nInternet on telecom in Latin America.\n7. FREE STOCK SNAPSHOT: The current analysts' consensus rates 3M (MMM), a\n\"buy/hold.\"\n8. JOIN THE MARKETBUZZ: where top financial industry professionals answer\nyour questions and offer insights every market day from noon 'til 2:00\np.m. ET.\n9. TRANSCRIPTS FROM WALL STREET: Ash Rajan, senior vice president and\nmarket analyst with Prudential Securities, answers questions about the\nmarket.\n======================== Sponsored by ========================Profit From AAII's \"Cash Rich\" Stock Screen - 46% YTD Return\nWith so much market volatility, how did AAII's \"Cash Rich\"\nStock Screen achieve such stellar returns?  Find the answer by\ntaking a free trial membership from the American Association\nof Individual Investors and using our FREE Stock Screen service at:\nhttp://subs.aaii.com/c/go/XAAI/MTEX1B-aaiitU1?s=S900\n==============================================================1. NEW ON MULTEX INVESTOR\nTake charge of your personal finances\nDo you have endless hours of free time to keep your financial house in\norder? We didn't think so. That's why you need to treat yourself to Multex\nInvestor's NEW Personal Finance Channel to take advantage of top-notch\ncontent and tools  FREE.\nClick here for more information.\nhttp://www.multexpf.com?mktg=sgpftx4&promo=unl&t=10&d=20001214\n2. DAILY FREE SPONSOR REPORT\nDivine Interventures (DVIN)\nRobertson Stephens maintains a \"buy\" rating on Divine Interventures, an\nincubator focused on infrastructure services and business-to-business\n(B2B) exchanges. Register for Robertson Stephens' free-research trial to\naccess this report.\nClick here.\nhttp://www.multexinvestor.com/Download.asp?docid=5018549&sid=9&promo=unl&t=12&\nd=20001214\n3. FREE RESEARCH REPORT\nHold 'er steady -- America Online (AOL)\nAOL's projected growth and proposed merger with Time Warner (TWX) both\nremain in place, says Jefferies & Co., which maintains a \"buy\" rating on\nAOL. In the report, which is free for a limited time, analysts are\nconfident the deal will close soon.\nClick here.\nhttp://www.multexinvestor.com/AF004627/magazinecover.asp?promo=unl&t=11&d=2000\n1214\n4. TODAY IN THE ANALYST CORNER\nFollowing market trends\nMorgan Stanley Dean Witter's Lew Smith sees strong underlying trends\nguiding future market performance. What trends does he point to, and what\nstocks and sectors does he see benefiting from his premise?\nHere is your opportunity to gain free access to Morgan Stanley's research.\nSimply register and submit a question below. You will then have a free\ntrial membership to this top Wall Street firms' research!  Lew Smith will\nbe in the Analyst Corner only until 5 p.m. ET Thurs., Dec. 14, so be sure\nto ask your question now.\nAsk the analyst.\nhttp://www.multexinvestor.com/ACHome.asp?promo=unl&t=1&d=20001214\n5. WHAT'S HOT? RESEARCH REPORTS FROM MULTEX INVESTOR'S HOT LIST\nBreaking the bottleneck -- An update on the broadband space\nOscar Gruss & Son's most recent issue of its Broadband Brief reports the\nlatest developments in the broadband space, with coverage of Adaptive\nBroadband (ADAP), Broadcom (BRCM), Efficient Networks (EFNT), and others\n(report for purchase - $25).\nClick here.\nhttp://www.multexinvestor.com/Download.asp?docid=5149041&promo=unl&t=4&d=20001\n214\n======================== Sponsored by ========================Get Red Herring insight into hot IPOs, investing strategies,\nstocks to watch, future technologies, and more. FREE\nE-newsletters from Redherring.com provide more answers,\nanalysis and opinion to help you make more strategic\ninvesting decisions. Subscribe today\nhttp://www.redherring.com/jump/om/i/multex/email2/subscribe/47.html\n==============================================================6. EDITOR'S PICK: CURRENT RESEARCH FROM THE CUTTING EDGE\nQue pasa? -- Predicting telecom's future in Latin America\nBear Stearns measures the impact of broadband and the Internet on telecom\nin Latin America, saying incumbent local-exchange carriers (ILECs) are\nideally positioned to benefit from the growth of Internet and data\nservices (report for purchase - $150).\nClick here.\nhttp://www.multexinvestor.com/Download.asp?docid=5140995&promo=unl&t=8&d=20001\n214\n7. FREE STOCK SNAPSHOT\n3M (MMM)\nThe current analysts' consensus rates 3M, a \"buy/hold.\" Analysts expect\nthe industrial product manufacturer to earn $4.76 per share in 2000 and\n$5.26 per share in 2001.\nClick here.\nhttp://www.multexinvestor.com/Download.asp?docid=1346414&promo=unl&t=3&d=20001\n214\n8. JOIN THE MARKETBUZZ!\nCheck out SageOnline\nwhere top financial industry professionals answer your questions and offer\ninsights every market day from noon until 2:00 p.m. ET.\nClick here.\nhttp://multexinvestor.sageonline.com/page2.asp?id=9512&ps=1&s=2&mktg=evn&promo\n=unl&t=24&d=20001214\n9. TRANSCRIPTS FROM WALL STREET'S GURUS\nPrudential Securities' Ash Rajan\nIn this SageOnline transcript from a chat that took place earlier this\nweek, Ash Rajan, senior vice president and market analyst with Prudential\nSecurities, answers questions about tech, retail, finance, and the outlook\nfor the general market.\nClick here.\nhttp://multexinvestor.sageonline.com/transcript.asp?id=10403&ps=1&s=8&mktg=trn\n&promo=unl&t=13&d=20001214\n==================================================================Please send your questions and comments to mailto:investor.help@multex.com\nIf you'd like to learn more about Multex Investor, please visit:\nhttp://www.multexinvestor.com/welcome.asp\nIf you can't remember your password and/or your user name, click here:\nhttp://www.multexinvestor.com/lostinfo.asp\nIf you want to update your email address, please click on the url below:\nhttp://www.multexinvestor.com/edituinfo.asp\n==================================================================To remove yourself from the mailing list for the Daily Update, please\nREPLY to THIS email message with the word UNSUBSCRIBE in the subject\nline. To remove yourself from all Multex Investor mailings, including\nthe Daily Update and The Internet Analyst, please respond with the\nwords NO EMAIL in the subject line.\nYou may also unsubscribe on the account update page at:\nhttp://www.multexinvestor.com/edituinfo.asp\n==================================================================Please email advertising inquiries to us at mailto:advertise@multex.com.\nFor information on becoming an affiliate click here: \nhttp://www.multexinvestor.com/Affiliates/home.asp?promo=unl\nBe sure to check out one of our other newsletters, The Internet Analyst by\nMultex.com. The Internet Analyst informs, educates, and entertains you with\nusable investment data, ideas, experts, and info about the Internet industry.\nTo see this week's issue, click here: http://www.theinternetanalyst.com\nIf you are not 100% satisfied with a purchase you make on Multex\nInvestor, we will refund your money."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 16 Oct 2001 20:38:47 -0700 (PDT)",
+            "subject": "Westwide mitigation--29 Oct Workshop",
+            "payload": "The current plan is to not have a separate Enron witness but to participate with a group of marketer/generators.  The planned speaker on behalf of this group is Richard Tabors.  I would like to caucus with you to make sure we're ok with this."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 23 May 2018 20:04:35",
+            "subject": "REMINDER: Intetics & Kievfprog Meetup \"Modern advances in programming languages\"",
+            "payload": "Dear friends,\nThank you for your registration.\nThe meetup will be held:\nDate: May 24 (Thursday)\n18.30-22.00\nVenue: Creative Hub IZONE,\nNaberezhno-Lugova st. 8, Kyiv\nAgenda:\n18.30-19.00\nRegistration. Welcoming coffee\n19.00-19.45\nFlow - functional language for building cross-platform UI\nSpeaker: ASGER ALSTRUP PALM\nThe founder of FLOW programming language\n19.45-20.00\nQ/As\n20.00- 20.45\nAlgebraic Subtyping\nSpeaker: Alexander Nemish\nThe founder of Lasca programming language\n20.45-21.00\nQ/As\n21.00-21.15\nPromotion activity from Intetics\n21.15-22.00\nBeer&Burger Networking\nGet a chance to win A DRONE from Intetics!\nIntetics Inc."
+        },
+        "meetings": [
+            {
+                "subj": "REMINDER: Intetics & Kievfprog Meetup \"Modern advances in programming languages\"",
+                "loc": "Creative Hub IZONE, Naberezhno-Lugova st. 8, Kyiv",
+                "start": "2018-05-24 18:30:00",
+                "end": "2018-05-24 22:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 6 Nov 2001 13:03:27 -0800 (PST)",
+            "subject": "Flight confirmation",
+            "payload": "This is to confirm the arrangements we discussed over the phone today. Enclosed are your airline tickets for the Springfield Airlines, flight number 123, leaving Springfield at 3:30 p.m. on Wednesday, April 3, 2002, arriving in Centerville at 5:45 p.m. Jane Doe will meet you at the airport. She will be wearing a blue name tag. As you requested, I left the return flight open to allow you some flexibility in your stay in Centerville.            I reserved a room with a king-size bed at the Springfield Hotel for three nights. I'm sorry, but there were no rooms available with a mountain view. I assure you, however, that the view is spectacular from any window in the hotel. The hotel has ten lighted tennis courts, so be sure to bring your racket. I hope these arrangements meet with your approval. If you need anything else, please call me at 555-5555. I look forward to your arrival."
+        },
+        "meetings": [
+            {
+                "subj": "Springfield Airlines, flight number 123",
+                "loc": "Springfield",
+                "start": "2002-04-03 15:30:00",
+                "end": "2002-04-03 17:45:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 31 Aug 2001 13:50:06 -0700 (PDT)",
+            "subject": "VaR Meeting",
+            "payload": "All-\nOur next meeting is September 7 - Friday.  The VaR presentation was this morning and is included below.  With this in mind, now is good time to refocus on the task force objectives and deliverables listed below and come up with our action steps.  \nThe dial in number is 713.345.3786\nObjectives\nEnsure accuracy of the VaR number reported for all Enron business groups by:\nIncreasing understanding of the models, processes and systems involved in computing VaR\nIdentifying relevant input parameters used in the VaR computation and understanding how these are determined and fed into the VaR engine\nDeveloping ways to easily identify exceptions / errors in the VaR computation process\nClarify roles and responsibilities in the VaR computation and reporting processes\nSummarize and document findings by developing training materials for all concerned parties\nDeliverables\nDetailed documentation of systems, processes and information flows related to the VaR computation\nVaR validation methodology\nOperational validation - eg. exception reporting mechanism\nDaily Change Analysis Report\nInformational or Data validation - eg. Being able to explain daily VaR movements\nModel validation - Back-testing, validation of parameters (curves, factors, correlations, etc)\nList of roles and responsibilities for all concerned groups\nTraining materials for risk team members\nRecommendations for future maintenance (of task force activities) and improvements\n \nHave a good Labor Day!\nKeith"
+        },
+        "meetings": [
+            {
+                "subj": "VaR Meeting",
+                "loc": "",
+                "start": "2001-09-07 12:00:00",
+                "end": "2001-09-07 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, Oct 31, 2017 at 9:11 PM",
+            "subject": "Your Tickets for Clojure at Attendify experience sharing",
+            "payload": "Find events My Tickets  \n  \n---|---  \n|  |  \n---  \n  \n##  Hi John, this is your order confirmation for \u201cClojure at Attendify\u201d\nexperience sharing\nOrganized by Attendify  \n  \n|  \n---  \n  \n##  Here are your tickets\n|  |  Mobile Tickets  \n---  \n|  |  Available on  \nApp Store  \n---|---  \n|  \n---  \n|  |  Add to  \nWallet  \n---|---  \nor  \n---  \n|  Paper Tickets  \n---  \n  \nOpen the email attachment  \nor download here  \n  \n|  \n---  \n  \n##  Questions about this event?\n|\nContact the organizer  \n  \n---  \n|\n##  Order Summary\n|\nOctober 31, 2017  \n  \n---|---  \n  \nOrder #: 691958749\n|\nName\n|\nType\n|\nQuantity  \n  \n---|---|---  \n  \nJohn Smith\n|\nClojure at Attendify\n|\n1  \n  \nThis order is subject to Eventbrite Terms of Service, Privacy Policy, and\nCookie Policy  \n  \n|\n##  About this event\n|  |\nTuesday, November 14, 2017 from 7:00 PM to 9:00 PM (EET)  \n  \n---|---  \n|  Attendify office  \nLeiptsyzka St, 15  \n2nd floor  \n03039 Kyiv  \nUkraine  \n|\nAdd to my calendar:\nGoogle \u00b7 Outlook \u00b7 iCal \u00b7 Yahoo  \n  \n---  \n|  \n---  \n|  \n---  \n  \n##  Your Account\nLog in to access tickets and manage your orders.  \n  \n---  \n---  \n|  |  |  |\n##  Create your own event\nAnyone can sell tickets or manage registration with Eventbrite.\nLearn More  \n  \n---  \n|  \n---  \n|  |  |  |\n##  Discover great events\nFind local events that match your passions.\nSee events  \n  \n---  \n|  \n---  \n|  \n"
+        },
+        "meetings": [
+            {
+                "subj": "Clojure at Attendify",
+                "loc": "Attendify office Leiptsyzka St, 15 2nd floor 03039 Kyiv Ukraine",
+                "start": "2017-11-14 19:00:00",
+                "end": "2017-11-14 21:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 7 May 2001 09:24:00 -0700 (PDT)",
+            "subject": "Sivy on Stocks: Higher Flyer",
+            "payload": "SIVY ON STOCKS from money.com\nMay 7, 2001\nHigher Flyer\nTop techs such as Nokia may not look cheap by traditional valuation\nmeasures. But they may still be good buys.\nBy Michael Sivy\nValue is a relative term. Every once in a while, you get a chance to buy\nshares in a company with annual earnings growth of more than 20 percent at\na price/earnings ratio of 16 or less. But that doesn't happen very often.\nMost of the time, conservative investors are lucky to find 14 percent\ngrowth at a 16 P/E. Slightly more aggressive investors might be happy with\n18 percent growers at P/Es in the low 20s. The most successful growth\nstocks, however, may never fall all the way down to those cheap valuations.\nBut that doesn't mean you shouldn't buy them.\nIn fact, there are good reasons to devote at least a part of your portfolio\nto those kinds of high flyers. For one thing, those companies are typically\namong the world's most successful. In addition, they receive ongoing\nsupport and sponsorship from Wall Street analysts. As long as they continue\nto meet expectations, they will hold up fairly well in temporary market\ndownturns. And they will be among the first stocks to bounce back.\nA perfect case in point looks to be Nokia [NOK]. The Finnish giant is the\nmost successful firm in one of the world's most rapidly growing industries.\nAnd since 1997, Nokia's share of the global wireless-phone handset market\nhas risen from less than 20 percent to 35 percent, helping the company\nnearly double earnings per share since 1998.\nOf course, no company can increase its market share indefinitely, but there\nare several factors that should help sustain Nokia's superior profit\ngrowth. Since most everyone who would use a cell phone already has one, the\nbulk of the sales of cell phones using existing technology is replacement\nbusiness. And when existing users switch phones, they tend to maintain\nbrand loyalty -- if they change providers at all, they migrate toward the\nstrongest one (say from Ericsson to Nokia, but not the other way around).\nAs a result, Nokia could gain another couple of market share points in\ncurrent-technology handsets.\nEven more important, the company is capable of attaining a market share\ntopping 40 percent in the next generation of handsets -- both those that\nuse more sophisticated technology for voice transmission and those that\nwill provide paging, instant messaging, and Internet access. Overall, the\nhandset market is projected to grow at an annual compound rate of just\nunder 23 percent over the next four years. And with market share gains,\nNokia's sales should do even better.\nIn the past few quarters, the over-capacity problems that have plagued the\ntelecom industry have been hurting handset makers as well as service\nproviders. Not only has growth slowed -- total sales of cell phones were up\nonly 12 percent in the first quarter -- but the introduction of new\ntechnology is being delayed. As a result, Nokia's earnings, up just 15\npercent in the first quarter, will likely fall short of a 20 percent gain\nfor the year as a whole.\nOnce the current slump passes, however, Nokia's growth should recover to\nnearly 25 percent a year. And so, despite a P/E of 40 based on estimated\nearnings for the current year, the stock seems quite attractive. At $33,\nNokia is trading at just over half the level it was a year ago. And the\nshare price, which dipped as low as $21 a month ago, now appears to be in\nan upswing. Even if the next couple of quarters show subpar results, Nokia\nfigures to be back among the market's brightest stars within 12 months.\n###\nPost your comments on Michael's column at:\nhttp://www.money.com/depts/investing/sivy/index.html\nTo subscribe or unsubscribe to Sivy on Stocks, go to:\nhttp://www.money.com/email/\n-----------------------------------------------------------\nMARKETPLACE\n-----------------------------------------------------------\nCONTACT THE BIGGEST COMPANIES IN THE WORLD!\nOver 5,000 contact names in the OFFICIAL FORTUNE Databases.\nDOWNLOAD THEM NOW!\nhttp://www.fortune.com/datastore/?mn1\n* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\nSpecial Internet Offer!!!\nSign up for a RISK-FREE issue of MONEY MAGAZINE at\nhttp://www.money.com/subscribe2\nOr if you prefer call our toll-free number 1-800-544-4594\n* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *\nWe may, from time to time, contact you with offers for Time Inc.\nproducts and services which we think may be of interest to you.\nIf you would prefer us not to contact you in this manner, AND\nYOU DID NOT INDICATE THIS PREFERENCE AT THE TIME YOU SIGNED UP\nfor the Sivy on Stocks online newsletter or any other Time Inc.\nonline newsletters, please let us know by sending us an e-mail\nat <no_solicit@money.com>.\nAdditionally, from time to time we may provide your e-mail\naddress to carefully chosen companies whose offers we think may\nbe of interest to you.  If you would prefer us not use your\ne-mail address in this manner, AND YOU DID NOT INDICATE\nTHIS PREFERENCE AT THE TIME YOU SIGNED UP for the Sivy on Stocks online\nnewsletter or any other Time Inc. online newsletter, please let\nus know by e-mailing us at <no_transfer@money.com>."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 9 Feb 2000 05:51:00 -0800 (PST)",
+            "subject": "Midtex",
+            "payload": "Please plan on meeting at 1pm on Thursday to continue discussions on the \nMidtex line.  I will let you know the location when it becomes finalized.\nD"
+        },
+        "meetings": [
+            {
+                "subj": "Midtex",
+                "loc": "",
+                "start": "2000-02-10 13:00:00",
+                "end": "2000-02-10 14:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 20 Sep 2001 07:30:33 -0700 (PDT)",
+            "subject": "Originations Staff Meeting",
+            "payload": "Per Laura Luce,\nA staff meeting has been scheduled to take place today @ 3:30 PM in EB 3259.  Please accept this invitation, as it will automatically populate on your schedules.\nThank you,\nIrena Hogan\nSr. Administrative Assistant\n(713) 853-6143"
+        },
+        "meetings": [
+            {
+                "subj": "Origination Staff Meeting",
+                "loc": "EB 3259",
+                "start": "2001-09-20 15:30:00",
+                "end": "2001-09-20 16:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 8 Feb 2000 08:13:00 -0800 (PST)",
+            "subject": "Brenda Herod's Off-Site Management Meeting",
+            "payload": "Please plan to attend an Off-Site meeting next Wednesday, February 16th at \nthe Plaza Club, located at 910 Louisiana.  The meeting will take place in the \nSolarium Room.\nThe tentative agenda is:\n11:30 - 1:00 Lunch\n1:00 - 5:00  Meeting\n5:00 - 6:30 Cocktails\nAs mentioned in today's staff meeting, if you have issues or items that you \nwould like added to the agenda please forward those on. As well, please \nsubmit your ideas for the Management Team Building event by Friday \nafternoon.  For those of you who are afraid of what Brenda and I may come up \nwith on our own, you better submit some ideas.\nThank You!\nYvette\nx3.5953"
+        },
+        "meetings": [
+            {
+                "subj": "Brenda Herod's Off-Site Management Meeting",
+                "loc": "Plaza Club, 910 Louisiana, Solarium Room",
+                "start": "2000-02-16 11:30:00",
+                "end": "2000-02-16 18:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 4 Sep 2001 07:26:29 -0700 (PDT)",
+            "subject": "UT MBA Team Meeting",
+            "payload": "Please join the UT MBA recruiting team for a kickoff meeting :\nThursday, September 6 \n 9:30 a.m. \nEB 20C2\nWe will discuss recruiting details and finalize participation for our campus events"
+        },
+        "meetings": [
+            {
+                "subj": "UT MBA Team Meeting",
+                "loc": "EB 20C2",
+                "start": "2001-09-06 09:30:00",
+                "end": "2001-09-06 10:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 25 Jan 2002 08:18:02 -0800 (PST)",
+            "subject": "Trading Application",
+            "payload": "\nWe will meet to discuss a system for the Power Traders to provide real-time pricing, curve shift, positions, etc. as discussed last year.\nThanks,\nCorry Bentley\n3-0421"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 22 Feb 2000 06:29:00 -0800 (PST)",
+            "subject": "MidTex Meeting",
+            "payload": "Please plan to attend a meeting regarding MidTex. \nRoom 3013, Monday, Feb. 28 - 1pm.\nWe will be discussing the nominating procedures on the HPL/MidTex \ninterconnects.\nIf you have any questions, please let me know.\n- Aimee\n"
+        },
+        "meetings": [
+            {
+                "subj": "MidTex Meeting",
+                "loc": "Room 3013",
+                "start": "2000-02-28 13:00:00",
+                "end": "2000-02-28 14:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 26 Jun 2001 16:36:09 -0700 (PDT)",
+            "subject": "OPM & Monthly Operating Report",
+            "payload": "When: Wednesday, June 27, 2001 11:00 AM-11:30 AM (GMT-06:00) Central Time (US & \nCanada).\nWhere: EB3748\n*~*~*~*~*~*~*~*~*~*\nPlease contact me if you have any questions.\nThank You,\nAdrial Boals\nX58849"
+        },
+        "meetings": [
+            {
+                "subj": "OPM & Monthly Operating Report",
+                "loc": "EB3748",
+                "start": "2001-06-27 11:00:00",
+                "end": "2001-06-27 11:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 19 Jul 2001 17:17:00 -0700 (PDT)",
+            "subject": "Finish NY Write-Up",
+            "payload": "\nTASK ASSIGNMENT\nStatus:\ncompleted\nTask Priority:\n1\nTask Due On:\n3/7/2001\nTask Start Date:\n3/7/2001\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 13 Sep 2001 12:02:05 -0700 (PDT)",
+            "subject": "Budget mtg - Ken Lay  (mg/Sharron x37094)",
+            "payload": "From: Rick Causey\nWE HAVE RESCHEDULED THE BUDGET MEETINGS AS FOLLOWS:\n FRIDAY, SEPTEMBER 14, 2001\n   10:00 - 1:00\n \nEB50M DINING.\nATTENDEES:\nKEN LAY\nGREG WHALLEY\nMARK FREVERT\nRICK CAUSEY\nBOB BUTTS\nMARK LINDSEY \nAND AS FOLLOWS \n10:00 - 10:15\nOVERVIEW-RICK CAUSEY\n10:15 - 11:00\nSTEVE KEAN\n11:00 - 11:15\nRICK BUY\n11:15 - 11:30\nANDY FASTOW\n11:30 - 11:45\nJIM DERRICK - ROB WALLS\n11:45 - 12:00\nMARK KOENIG\n12:00 - 12:15\nBILLY LEMMONS\n12:15 - 1:00\nRICK CAUSEY\nPlease call me at X37094 if you have any questions."
+        },
+        "meetings": [
+            {
+                "subj": "BUDGET MEETINGS",
+                "loc": "EB50M DINING",
+                "start": "2001-09-14 10:00:00",
+                "end": "2001-09-14 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 25 Feb 2000 08:18:00 -0800 (PST)",
+            "subject": "EOL killed deals",
+            "payload": "Over the past several weeks, we have seen an increase in the number of \n\"killed\" or modified EOL transactions.   Please remind each of your \nrespective groups that this is not an option. Once a customer \"clicks\" on a \ndeal, we have a valid, binding contract.   We lose our audit trail, and we \ncan potentially expose ourselves from a Legal standpoint.   I talked to Mark \nTaylor about this today, and the best option is for Legal to prepare a \ntermination agreement when we agree to let a customer out of a deal.  We \n(Product Control) should be notified immediately if someone is requesting to \nchange an EOL deal.  You can call either myself, Jennifer Denny (x35824), \nFrank Davis (x37235), or Dale Neuner (39746). \nCall me if you have any questions.\nSheri\nx36557"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 11 Jun 2001 18:56:31 -0700 (PDT)",
+            "subject": "Accenture Presentation in EB2601",
+            "payload": "When: Thursday, June 28, 2001 2:00 PM-5:00 PM (GMT-06:00) Central Time (US & \nCanada).\nWhere: EB2601\n*~*~*~*~*~*~*~*~*~*\nIf you have any questions about this meeting, please contact Dan Luciano @ \nx5-3911."
+        },
+        "meetings": [
+            {
+                "subj": "Accenture Presentation",
+                "loc": "EB2601",
+                "start": "2001-06-28 14:00:00",
+                "end": "2001-06-28 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 11 Apr 2018 05:18:56 -0000",
+            "subject": "Your Tickets for #kievfprog Spring 2018",
+            "payload": "|  |\nFind events My Tickets  \n  \n---|---  \n|  |  |\n##  Hi John, this is your order confirmation for #kievfprog Spring 2018\nOrganized by Vladimir Kirillov @ #kievfprog  \n  \n---  \n|  \n---  \n  \n##  Here are your tickets\n|  |  Mobile Tickets  \n---  \n|  |  Available on  \nApp Store  \n---|---  \n|  \n---  \n|  |  Add to  \nWallet  \n---|---  \nor  \n---  \n|  Paper Tickets  \n---  \n  \nOpen the email attachment  \nor download here  \n  \n|  \n---  \n  \n##  Questions about this event?\n|\nContact the organizer  \n  \n---  \n|\n##  Order Summary\n|\nApril 11, 2018  \n  \n---|---  \n  \nOrder #: 756018127\n|\nName\n|\nType\n|\nQuantity  \n  \n---|---|---  \n  \nJohn Smith\n|\nLambda Bird\n|\n1  \n  \nThis order is subject to Eventbrite Terms of Service, Privacy Policy, and\nCookie Policy  \n  \n|\n##  About this event\n|  |\nSunday, April 22, 2018 from 11:00 AM to 4:00 PM (EEST)  \n  \n---|---  \n|  Coworking Platforma Leonardo  \n52/17 Volodymyrska Street  \n01030 Kyiv  \nUkraine  \n|\nAdd to my calendar:\nGoogle * Outlook * iCal * Yahoo  \n  \n---  \n|  \n---  \n|  \n---  \n  \n##  Your Account\nLog in to access tickets and manage your orders.  \n  \n---  \n|  |  |  |  |\n##  Create your own event\nAnyone can sell tickets or manage registration with Eventbrite.\nLearn More  \n  \n---  \n|  \n---  \n|  |  |  |\n##  Discover great events\nFind local events that match your passions.\nSee events  \n  \n---  \n|  \n---  \n|  \n---  \n  \nThis email was sent to JohnSmith@gmail.com\nEventbrite | 155 5th St, 7th Floor | San Francisco, CA 94103\nCopyright (C) 2018 Eventbrite. All rights reserved."
+        },
+        "meetings": [
+            {
+                "subj": "#kievfprog Spring 2018",
+                "loc": "Coworking Platforma Leonardo 52/17 Volodymyrska Street 01030 Kyiv Ukraine",
+                "start": "2018-04-22 11:00:00",
+                "end": "2018-04-22 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 23 Oct 2001 14:04:52 -0700 (PDT)",
+            "subject": "Pira Bi-Annual Meeting",
+            "payload": "\nPIRA will be presenting there 6 month outlook .\nAn e-mail with the agenda will follow in the next week or so.\nIf there are any topics you would like them to cover, please let me know.\nThank You \nRika "
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, Nov 9, 2017 at 3:34 PM",
+            "subject": "Welcome to Elixir Club 9 (Nov 18, 2017)",
+            "payload": "You are invited to the following event:\nElixir Club 9\n|  |\nEvent to be held at the following time, date, and location:\nSaturday, November 18, 2017 from 11:00 AM to 6:00 PM (EET)\n**Spalah**  \nKharkiv  \nDivocha 6  \n  \n  \nView Map  \n  \n---|---  \n  \n|  |  **Attend Event**  \n---  \n  \n**Share this event:**\n|  |  |  \n---|---|---  \n  \nWe are getting closer to all of the developers of Ukraine. Greet the Elixir\nClub 9 in Kharkiv!\nWelcome professionals with a different technology background to become\nacquainted with Elixir. The lineup consists of talks about Elixir language,\nits ecosystem, appropriate solutions, cases of using Elixir in real projects.\n  * **Elixir: Getting started with language and ecosystem** \\- Alex Rozumii \n  * **Ecto and Phoenix: Doing Web With Elixir** \\- Yurii Bodarev \n  * **Pattern matching in Elixir by examples** \\- Alexander Khokhlov\n  * **Elixir on service of government** \\- Alex Troush\nYou could join us as a Speaker at Lightning Talk by filling in the form -\nhttps://goo.gl/forms/ACiKTb3MFmtthDlE3 or write your topic or question to\ndiscuss on the whiteboard during the conference.\nWe are welcome students for your willingness to learn and we give 50% discount\nvia the promo code \"student\" Please send your student ID\u2019s scan to make your\nregistration on the event faster.\nAlso, we are welcome parents of a small baby (0-3 years) on maternity leave,\nwho want to grow their skills with growing the kid. You can get a special\ndiscount on the ticket with promo code \"GrowWithYourKid\". Please take kid\u2019s\nbirth certificate with you to confirm the status.\nPlease, share this event on Facebook and Twitter\nSee you in Kharkiv!\nCheers,Ruby Meditation & Elixir Club Team"
+        },
+        "meetings": [
+            {
+                "subj": "Elixir Club 9",
+                "loc": "**Spalah** Kharkiv Divocha 6",
+                "start": "2017-11-18 11:00:00",
+                "end": "2017-11-18 18:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 29 Nov 2000 18:32:00 -0800 (PST)",
+            "subject": "",
+            "payload": "Jeff,\nI can't sleep and have been cleaning out emails.  Not my favorite past time \nat 2:30am.  I didn't see the draft reorg memo we've been talking about for a \nwhile.  Please send it to me for my review.  I think it is important to get \nsomething out and i believe that people expect some changes\nThanks, m."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 31 Jul 2001 07:17:19 -0700 (PDT)",
+            "subject": "In person interview - EB3663  Out of town candidate Ken Williams -\n Req. # 109729 - Risk Management",
+            "payload": "Interviewers will include:\nErroll McLaughlin \n8:30 - 9:00\nPhillip Love\n9:00 - 9:30\nO'Neal Winfree\n9:30 - 10:00\nDave Baumbach\n10:00 - 10:30\nKam Keiser\n10:30 - 11:00\nResume will be included in final interview schedule.  Thanks!\nps - this candidate is meeting with a group directly following your meetings.  "
+        },
+        "meetings": [
+            {
+                "subj": "Interview",
+                "loc": "EB3663",
+                "start": "2001-07-31 08:30:00",
+                "end": "2001-07-31 09:00:00"
+            },
+            {
+                "subj": "Interview",
+                "loc": "EB3663",
+                "start": "2001-07-31 09:00:00",
+                "end": "2001-07-31 09:30:00"
+            },
+            {
+                "subj": "Interview",
+                "loc": "EB3663",
+                "start": "2001-07-31 09:30:00",
+                "end": "2001-07-31 10:00:00"
+            },
+            {
+                "subj": "Interview",
+                "loc": "EB3663",
+                "start": "2001-07-31 10:00:00",
+                "end": "2001-07-31 10:30:00"
+            },
+            {
+                "subj": "Interview",
+                "loc": "EB3663",
+                "start": "2001-07-31 10:30:00",
+                "end": "2001-07-31 11:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 24 Oct 2001 08:42:49 -0700 (PDT)",
+            "subject": "September OPM Reports",
+            "payload": "Please plan to attend  a meeting to discuss the September OPM Reports....\nTuesday, October 30, 2001 at 3pm in EB3143B\nIf for any reason you will be unable to attend, please call Heather Choate at x33278. \nThank you."
+        },
+        "meetings": [
+            {
+                "subj": "September OPM Reports",
+                "loc": "EB3143B",
+                "start": "2001-10-30 15:00:00",
+                "end": "2001-10-30 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 27 Aug 2001 05:56:14 -0700 (PDT)",
+            "subject": "Asset Management/ ComGas",
+            "payload": "Would like to meet about asset management per Frank Vickers.  Louise Kitchen has requested a presentation from Frank and/or myself for Tuesday of next week (9/04/01).  Basically would like to walk through an example (eg. ComGas) to illustrate why the manner in which the desk is structured and the way in which different desks liquidate to one another prevent asset optimization for Enron as a whole.\nThanks very much,\nJim Willis\nEast Gas Origination"
+        },
+        "meetings": [
+            {
+                "subj": "Asset Management",
+                "loc": "",
+                "start": "2001-09-04 12:00:00",
+                "end": "2001-09-04 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Friday, April 25, 2008 3:35 PM",
+            "subject": "Look 2 a Book Tea- Wednesday, May 21st 4:00 to 5:00pm. at the Governor's House",
+            "payload": "Todd,\nI talked to Lynne Smith about hosting this event, she'll be out of town 5/13 and might\nhave something with Labor on 5/21; if possible she will attend. Commissioner\nThompson has agreed to host this years Look 2 a Book Tea and present the award to this year's\nrecipient. The tea is scheduled on Wednesday, May 21st from 4:00 to 5:00pm. at the House.\nJerry Reinwand said he'd find a $500. grant, but is avoiding certain groups/lobbyists. Jennifer Scott, said\nthat they have a $500. reserve just in case we don't secure the funding, so it's taken care of either way.\nIF you change your mind- we'll see you on the 21st, if not- we've got it covered.\nThanks,\nErika\nErika Fagerstrom\nExecutive Residence Manager\nGovernor's House\nState ofAlaska, Office of the Governor\n716 Calhoun Avenue, Juneau, Alaska 99801\nPhone: 907465-3500; Fax: 907465-2031\nROSTON 02331\n10/15/2009\nReleased to msnbc.com by the state of Alaska and presented by Crivella West\n"
+        },
+        "meetings": [
+            {
+                "subj": "Look 2 a Book Tea",
+                "loc": "Governor's House",
+                "start": "2008-05-21 16:00:00",
+                "end": "2008-05-21 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 19 Oct 2000 05:47:00 -0700 (PDT)",
+            "subject": "New Capacity for Nov-Oct",
+            "payload": "Call me when you get a chance.  There is some new capacity to execute for \nNovember.  Expiring contracts are show in purple, the new contracts are shown \nin yellow.  Ignore the demand charges for now, I did not verify them.  I \nwon't execute these until I hear from you.\nThe capacity listed below was purchased from the pipeline.  Scott said Jeff \ngave us the OK on this one.  \n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 19 Mar 2001 07:20:39 -0800 (PST)",
+            "subject": "Confirmed - Germany: Metals Recycling Integration update - Conf.\n Call (20 Mar 16:00 GMT in NE4005)",
+            "payload": "4pm  (UK Time)   10am (US Time)\nBT Conference Call Details:\nTel:\n+ 44 (0)208 839 4710\nPin No:\n776660#\nPlease call the above No. at 4pm UK Time,  10am US Time.  Enter the Pin No. when asked and you will be connected to the conf. call.\nLondon Mtg Room:  NE4005\nHouston Mtg Room: tba\nLisa Fair\n+ 44 207 783 7123"
+        },
+        "meetings": [
+            {
+                "subj": "Germany: Metals Recycling Integration update",
+                "loc": "NE4005",
+                "start": "2001-03-20 08:00:00",
+                "end": "2001-03-20 09:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 1 Feb 2002 06:57:41 -0800 (PST)",
+            "subject": "Meeting to discuss Rates and Rate Feeds",
+            "payload": "Please plan to attend a meeting today at 1:30 p.m. in ECS 5112 to discuss Rate Feeds for UBS.  We need to ensure that everyone will get the rate feeds that they expect to see in the various systems.  We need to make sure that there are no holes in the process!"
+        },
+        "meetings": [
+            {
+                "subj": "Meeting to discuss Rates and Rate Feeds",
+                "loc": "ECS 5112",
+                "start": "2002-02-01 13:30:00",
+                "end": "2002-02-01 14:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 20 Sep 2000 08:06:00 -0700 (PDT)",
+            "subject": "",
+            "payload": "John,\n Denver's short rockies position  beyond 2002 is created by their Trailblazer \ntransport.  They are unhedged 15,000/d in 2003 and 25,000/d in 2004 and \n2005.  \n They are scrubbing all their books and booking the Hubert deal on Wednesday \nand Thursday.\nPhillip"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Monday, February 22, 2016 3:24:17 PM",
+            "subject": "RE: MEETING REQUEST: XYZ PRODUCT ADVERTISING",
+            "payload": "Dear Mr. John,           I am glad to have received your positive response to the meeting request. Kindly let me know if the following arrangement works for you; 9:00 on Thursday 16th June 2016 at the Le-palm  business place, opposite yellow bank \ufffd Citydale. Thank you again for your time. Janet Manuel"
+        },
+        "meetings": [
+            {
+                "subj": "XYZ PRODUCT ADVERTISING",
+                "loc": "Le-palm business place",
+                "start": "2016-06-16 09:00:00",
+                "end": "2016-06-16 10:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 23 May 2001 10:12:11 -0700 (PDT)",
+            "subject": "sandy cortez",
+            "payload": "meeting at 4.30"
+        },
+        "meetings": [
+            {
+                "subj": "sandy cortez",
+                "loc": "",
+                "start": "2001-05-23 16:30:00",
+                "end": "2001-05-23 17:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 24 Sep 2001 08:24:33 -0700 (PDT)",
+            "subject": "Trader  Performance Reports",
+            "payload": "Based on everyone's availability,  I am scheduling the meeting for tomorrow, Tuesday, at 9:30am, EB3270.   Please let me know if you could not make it to the meeting.\nThanks,\nDing."
+        },
+        "meetings": [
+            {
+                "subj": "September OPM Reports",
+                "loc": "EB3270",
+                "start": "2001-09-25 09:30:00",
+                "end": "2001-09-25 10:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, Oct 16, 2017 at 11:45 PM",
+            "subject": "Invitation: Presentation and Hack Night",
+            "payload": "New Meetup\nPresentation and Hack Night\nBoston Rust\nAdded by Ben Striegel\nWednesday, November 1, 2017  \n6:30 PM\nCIC, 18th Floor Kitchen  \n50 Milk St  \nBoston, MA\nAre you going?\n|\n__Yes __\n|\n__No __  \n  \n---|---  \n  \n4 Rustaceans going, including:\n|\nMike MacDonald  \n  \n---|---  \n  \n|\nEric Kelly  \n  \n---|---  \n  \n|\nNiko Matsakis\n\"Member of the Rust core team. I'm excited to see a Boston-area Rust meetup\ntake off!\"  \n  \n---|---  \n  \n|\nBen Striegel  \n  \n---|---  \n  \nBeen a while, Boston! Come show us what you've all been working on since July!\nPlus, Rust core developer Niko Matsakis will be giving a talk on Chalk, a\nproject that promises a fundamental shift in how the Rust compiler performs\ntype checking, bringi...  \nLearn more\n  \nNever miss a last-minute change. Get the app.\n|\nYou're getting this message because your Meetup account is connected to this\nemail address.\nUnsubscribe from similar emails from this Meetup group. Manage your settings\nfor all types of email updates.\nVisit your account page to change your contact details, privacy settings, and\nother settings.\nMeetup Inc., POB 4668 #37895 New York NY USA 10163"
+        },
+        "meetings": [
+            {
+                "subj": "Presentation and Hack Night",
+                "loc": "CIC, 18th Floor Kitchen 50 Milk St Boston, MA",
+                "start": "2017-11-01 18:30:00",
+                "end": "2017-11-01 19:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 23 Oct 2001 08:40:04 -0700 (PDT)",
+            "subject": "Energy Operations Staff Meeting",
+            "payload": "Please plan to attend a Staff Meeting with Bob Hall...\nWednesday, October 24, 2001"
+        },
+        "meetings": [
+            {
+                "subj": "Energy Operations Staff Meeting",
+                "loc": "",
+                "start": "2001-10-24 12:00:00",
+                "end": "2001-10-24 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 16 Oct 2001 09:43:11 -0700 (PDT)",
+            "subject": "Exxon Pricing",
+            "payload": "When: Tuesday, October 16, 2001 4:30 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: 3143b\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "Exxon Pricing",
+                "loc": "3143b",
+                "start": "2001-10-16 16:30:00",
+                "end": "2001-10-16 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 12 Jul 2001 09:06:17 -0700 (PDT)",
+            "subject": "lunch today rescheduled with Bob Hall",
+            "payload": "Meet in the lobby at 11:30am."
+        },
+        "meetings": [
+            {
+                "subj": "lunch today",
+                "loc": "lobby",
+                "start": "2001-07-12 11:30:00",
+                "end": "2001-07-12 12:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 15 May 2001 05:56:00 -0700 (PDT)",
+            "subject": "Proposed Force Majeure for Sale to Southern Company ex Elba",
+            "payload": "Comment?\nLes\n -----Original Message-----\nFrom:  \"Washington, Joan\" <WashingJ@arentfox.com>@ENRON \n[mailto:IMCEANOTES-+22Washington+2C+20Joan+22+20+3CWashingJ+40arentfox+2Ecom+3\nE+40ENRON@ENRON.com] \nSent: Tuesday, May 15, 2001 12:37 PM\nTo: Webber, Les\nSubject: Force Majeure\nBlackline attached. <<BLACKLINE.DOC>>\n - BLACKLINE.DOC"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 10 Dec 2001 10:14:48 -0800 (PST)",
+            "subject": "Staff Meeting",
+            "payload": "There will be a staff meeting tomorrow morning @ 9AM in Team Room 6716.  Please accept this invite, as it will automatically populate onto your schedules.\nThank you,\nIrena"
+        },
+        "meetings": [
+            {
+                "subj": "Staff Meeting",
+                "loc": "Team Room 6716",
+                "start": "2001-12-11 09:00:00",
+                "end": "2001-12-11 10:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 12 Dec 2000 22:01:00 -0800 (PST)",
+            "subject": "Succession Plan",
+            "payload": "It is my great pleasure to announce that the Board has accepted my recommendation to appoint Jeff Skilling as chief executive officer, effective at the time of their next board meeting on February 12, 2001.  Jeff will also retain his duties as president and chief operating officer.  I will continue as chairman of the Board and will remain at Enron, working with Jeff on the strategic direction of the company and our day-to-day global operations.\nJeff will assume the role at a time when the company is hitting on all cylinders and is positioned for phenomenal growth.  He is clearly ready for the job, and after 15 years as CEO of this great company, I=01,m ready for a somewhat different role.\nOur succession plan has been clear for some time.  This has afforded Jeff and me the freedom to combine our strengths toward building a company that continues to exceed everyone=01,s expectations, including our own.  We look forward to furthering that relationship as Jeff expands his role.\nThere are no plans for any other changes in our management team nor broad shifts in strategy and direction.\nPlease join me in congratulating Jeff.  I look forward to a great 2001."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 8 May 2001 13:39:00 -0700 (PDT)",
+            "subject": "ONEPASS MEMBER CO.O.L. TRAVEL SPECIALS FOR peter keavey",
+            "payload": " \n[IMAGE]\nCO.O.L. Travel Specials\n[IMAGE]\nWednesday, May 09, 2001 ?\n \n \nSpecials for peter keavey[IMAGE]\nFare Sale\n[IMAGE]\nSummer Fare Sale \nSave even more on continental.com off already low sale fares within the U.S. \nand between the U.S., Canada, Latin America, Mexico, the Caribbean, Europe, \nAsia and the Pacific. Don't wait.  These seats are limited. For details and \nto purchase your ticket now visit:www.continental.com   Click for more info\n?\n \nThis week's e-mail includes: CO.O.L. Travel Specials, Featured Fares, Westin \nHotels & Resorts, Sheraton Hotels & Resorts, Four Points by Sheraton, St. \nRegis, The Luxury Collection and W Hotels Offers, Hilton Hotel & Resort \nOffers,  Alamo Rent A Car Offers, National Car Rental Offers.\n \nCO.O.L. Travel Specials\nAirport Hubs\nThis week's specials are good for the following markets departing Saturday, \nMay 12 and returning on either Monday, May 14 or Tuesday, May 15, 2001. \nPlease see the Terms and Conditions listed at the end of this e-mail.\nOnePass Miles CO.O.L. Travel Specials Offers  \nFor OnePass members, here are special opportunities to redeem miles for \ntravel to the following destinations. As an additional benefit, OnePass Elite \nmembers can travel using the miles below as the only payment necessary. \nTo use your OnePass miles (as listed below) to purchase CO.O.L. Travel \nSpecials, you must call 1-800-642-1617. There will not be an additional $20 \ncharge when redeeming OnePass miles for CO.O.L. Travel Specials through the \ntoll-free reservations number.\nIf not using your OnePass miles, purchase CO.O.L. Travel Specials online \nuntil 11:59pm (CST) Friday at www.continental.com. You can also purchase \nCO.O.L. Travel Specials for an additional cost of $20 per ticket through our \ntoll-free reservations number at 1-800-642-1617.\nTravel may originate in either city.\nFrom/To Cleveland\n$29 + 15,000 Miles or $149   -   Boston, MA \n$29 + 12,500 Miles or $119   -   Dayton, OH\n$29 + 12,500 Miles or $119  -   Grand Rapids, MI\n$29 + 15,000 Miles or $149  -   Hartford, CT\n$29 + 12,500 Miles or $119  -   Indianapolis, IN\n$29 + 12,500 Miles or $129   -   Madison, WI\n$29 + 12,500 Miles or $129  -   Milwaukee, WI\n$29 + 12,500 Miles or $139   -   Raleigh Durham, NC \nFrom/To Houston\n$29 + 12,500 Miles or $119   -   Baton Rouge, LA\n$29 + 12,500 Miles or $139   -   Nashville, TN\n$29 + 12,500 Miles or $119   -   New Orleans, LA\n$29 + 12,500 Miles or $119   -   Shreveport, LA\n$29 + 12,500 Miles or $139  -   West Palm Beach, FL \nFrom/To New York/Newark\n$29 + 17,500 Miles or $219  -   Austin, TX\n$29 + 12,500 Miles or $139   -   Jacksonville, FL\n$29 + 15,000 Miles or $159   -   Nashville, TN\n$29 + 12,500 Miles or $119  -   Richmond, VA \nreturn to top\nFeatured Fares Sample Destination\nChoose your fare, find your flight. Or, quickly sift through all our great \nfeatured fares by choosing a destination or origin. Be spontaneous. Get out \nof town. Current Featured Fares destinations include:\nNew York, Atlanta, Houston, \nCleveland, Phoenix, and many more.\nNote: Featured Fares change often. To see a regularly-updated online list and \npurchase our Featured Fares, visit the Web site at: www.continental.com\n(Capacity controls and other restrictions apply.)\n[IMAGE]\nPartner Hotel Specials\nStarwood Hotels\nCO.O.L. Travel Specials Last-minute Weekend Rates from Westin Hotels & \nResorts, Sheraton Hotels & Resorts, Four Points by Sheraton, St. Regis, The \nLuxury Collection and W Hotels\nVisit our site for booking these and other Last-Minute Weekend Rates for  \nthis weekend May 12 - May 15, 2001.  promo.starwood.com/csco\nIndiana\nIndianapolis - The Westin Indianapolis - $87.00 \nIndianapolis - The Sheraton Indianapolis - $76.00 \nLouisiana\nBaton Rouge - Sheraton Baton Rouge - $75.00 \nNew Orleans - W New Orleans - $159.00 \nNew Orleans - Sheraton New Orleans - $99.00 \nMaryland\nAnnapolis - Sheraton Barcelo Annapolis - $123.00 \nTowson - Sheraton Baltimore north - $97.00 \nMassachusetts\nBoston - The Westin Copley  - $179.00 \nBoston - Sheraton Boston - $189.00 \nBoston - Sheraton Braintree - $119.00 \nDanvers - Sheraton Ferncroft - $105.00 \nFramingham - Sheraton Newton - $109.00 \nNeedham - Sheraton Needham - $107.00 \nNewton - Sheraton Newton - $109.00 \nWakefield - Sheraton Colonial - $90.00 \nWaltham - Westin Waltham - $90.00 \nWaltham - Four Points Walthaam - $100.00 \nNew Jersey\nEatontown - Sheraton Eatontown - $99.00 \nEdison - Sheraton Edison - $69.00 \nElizabeth - Four Points by Sheraton Newark - $71.00 \nParsippany - Sheraton Parsippany - $70.00 \nPiscataway - Four Points by Sheraton Piscataway - $65.00 \nNew York\nJamaica - Sheraton JFK - $103.00 \nNew York City - St. Regis - $580.00 \nNew York City - Sheraton Russell - $179.00 \nNew York City - Sheraton Manhattan - $169.00 \nOhio\nCincinnati - Westin Cincinati - $90.00 \nCuyahoga Falls - Westin Cincinati - $90.00 \nTennesse\nNashville - Sheraton Music City - $59.00 \nTexas\nAustin - Sheraton Austin - $70.00 \nFrisco - Sheraton Stonebrier - $102.00 \nHouston - Westin Galleria Houston - $64.00 \nHouston - Westin Oaks - $70.00 \nHouston - Sheraton Houston Brookhollow - $65.00 \nHouston - Sheraton Suites Houston - $71.00 \nHouston - Sheraton North Houston - $64.00 \nWashington D.C.\nDistrict of Columbia - Sheraton Premiere at Tysons Corner - $69.00  \nWashington\nSeattle - W Seattle - $160.00 \nSeattlle - Westin Seattle - $114.00 \nWisconsin\nBrookfield - Sheraton Milwaukee Brookfield - $65.00 \nFor complete details on these offers, please refer to the terms and \nconditions below.\nreturn to top\nCO.O.L. Travel Specials on Hilton Hotels and Resorts\nHilton logo\nThe following rates are available May 12 - 14, 2001 and are priced per night. \nCities listed are for the nearest airport, not necessarily for the location \nof the hotel.\nAustin, TX\nDoubletree Hotel Austin, Austin, TX - $79 \nDoubletree Guest Suites Austin, Austin, TX - $129 \nBoston, MA\nDoubletree Guest Suites Boston, Boston, MA - $189 \nHilton Dedham Place, Dedham, MA - $175 \nUniversity Park Hotel at MIT-Cambridge, Cambridge, MA - $179 \nCleveland, OH\nHilton Cleveland East/Beachwood, Beachwood, OH - $99 \nDayton, OH\nDoubletree Guest Suites Dayton/Miamisburg,  Miamisburg, OH - $94 \nHartford, CT\nDoubletree Hotel Bradley International Airport,  Windsor Locks, CT - $189 \nHouston, TX\nHilton Houston Southwest, Houston, TX - $109 \nDoubletree Hotel Houston-Post Oak, Houston, TX - $165 \nHilton Houston Hobby Airport, Houston, TX - $88 \nIndianapolis, IN\nDoubletree Guest Suites Indianapolis/Carmel, Carmel, IN - $99 \nNew Orleans, LA\nDoubletree Hotel New Orleans-Lakeside, Metairie, LA - $139 \nNew York, NY & Newark, NJ\nHilton Hasbrouck Heights, Hasbrouck Heights, NJ - $159 \nHilton Newark Gateway, Newark, NJ - $229 \nHilton New York, New York, NY - $179/Night, 5/12-13 \nHilton Parsippany, Parsippany, NJ - $89, 5/12-14 \nMillenium Hilton Next to the World Trade Center, New York, NY - $275 \nPalm Beach, FL\nDoubletree Hotel Palm Beach Gardens, Palm Beach Gardens, FL - $79 \nRaleigh, NC \nHilton North Raleigh, Raleigh, NC - $119 \nTo book this week's special rates for Hilton Family Hotels, visit and book at \nwww.hilton.com/specials/values_main.html\nSpecial rates apply only for the dates listed at each hotel and are subject \nto availability. Check hilton.com for specific dates at each Hilton Family \nHotel. Or call at 1-800-774-1500 and ask for Value Rates. Restrictions apply \nto these  rates.\nreturn to top\nPartner Car Rental Specials\nCO.O.L. Travel Specials from Alamo Rent A Car\nThis week, Alamoc offers great rates in the following cities. Rates  listed \nbelow are valid on compact class cars at airport locations listed.  Other car \ntypes may be available.  Rates are valid for rentals on Saturday,  May 12, \n2001 with returns Monday, May 14, 2001 or Tuesday,  May 15, 2001.\nAlamo logo\n $20 a day in: Austin, TX (AUS) \n$26 a day in: Hartford, CT (BDL) \n$18 a day in: Nashville, TN (BNA) \n$26 a day in: Boston, MA (BOS) \n$19 a day in: Cleveland, OH (CLE) \n$17 a day in: Houston, TX (IAH) \n$20 a day in: Indianapolis, IN (IND) \n$26 a day in: Jacksonville, FL (JAX) \n$19 a day in: Milwaukee, WI (MKE) \n$26 a day in: New Orleans, LA (MSY) \n$25 a day In: Newark, NJ (EWR) \n$26 a day in: West Palm Beach, FL (PBI) \n$18 a day in: Raleigh-Durham, NC (RDU) \nTo receive special Continental CO.O.L. discounted rates, simply make advance \nreservations and be sure to request ID # 596871 and Rate Code 33. Book your \nreservation online at: www.alamo.com or contact Alamo at 1-800 GO ALAMO.\n*If you are traveling to a city or a different date that is not listed, Alamo \noffers great rates when you book online at: www.alamo.com \nFor complete details on these offers, please refer to Alamo's terms and \nconditions below.\nreturn to top\nCO.O.L. Travel Specials from National Car Rental \nThis week, Nationalc offers great rates in the following cities. Rates  \nlisted below are valid on intermediate class cars at airport locations \nlisted.  Other car types may be available.  Rates are valid for rentals on \nSaturday,  May 12, 2001 with returns Monday, May 14, 2001 or Tuesday,  May \n15, 2001.\nNational logo\n $23 a day in: Austin, TX (AUS) \n$23 a day in: Cleveland, OH (CLE) \n$29 a day in: Hartford, CT (BDL) \n$21 a day in: Nashville, TN (BNA) \n$29 a day in: Boston, MA (BOS) \n$30 a day in: Baton Rouge, LA (BTR) \n$23 a day in: Dayton, OH (DAY) \n$23 a day in: Grand Rapids, MI (GRR) \n$21 a day in: Houston, TX (IAH) \n$26 a day in: Indianapolis, IN (IND) \n$29 a day in: Jacksonville, FL (JAX) \n$54 a day in: Madison, WI (MSN) \n$29 a day in: Newark, NJ (EWR) \n$29 a day in: New Orleans, LA (MSY) \n$29 a day in: West Palm Beach, FL (PBI) \n$21 a day in: Raleigh-Durham, NC (RDU) \n$23 a day in: Richmond, VA (RIC) \n  \nTo receive your special Continental Airlines CO.O.L. Travel Specials \ndiscounted rates, simply make your reservations in advance and be sure to \nrequest Product Code COOLUS.  To make your reservation, contact National at \n1-800-CAR-RENT (1-800-227-7368), or book your reservation online at \nwww.nationalcar.com.  Please enter COOLUS in the Product Rate Code field, and \n5037126 in the Contract ID field to ensure you get these rates on these dates.\n* If you are traveling to a city or a different date that is not listed, \nNational offers great rates when you book online at: www.nationalcar.com\nFor complete details on these offers, please refer to National's terms and \nconditions below.\nreturn to top\nTerms and Conditions\nCO.O.L. Travel Special Rules\nFares include a $37.20 fuel surcharge. Passenger Facility Charges, up  to $12 \ndepending on routing, are not included. Up to $2.75 per  segment federal \nexcise tax, as applicable, is not included. Applicable  International and or \nCanadian taxes and fees up to $88, varying by  destination, are not included \nand may vary slightly depending on currency exchange rate at the time of \npurchase. \nFor a complete listing of rules please visit:  www.continental.com\nAlamo Rent A Car's Terms and Conditions:\n www.alamo.com \nNational Car Rental Terms and Conditions:\nCustomer must provide Contract ID# at the time of reservation to be eligible \nfor discounts. Offer valid at participating National locations in the US and \nCanada. Minimum rental age is 25. This offer is not valid with any other \nspecial discount or promotion. Standard rental qualifications apply. Subject \nto availability and blackout dates. Advance reservations required. Geographic \ndriving restrictions may apply.\nTerms and Conditions for Westin, Sheraton, Four Points, St. Regis, The Luxury \nCollection, and W Hotels:\npromo.starwood.com\nreturn to top\nThis E-mail message and its contents are copyrighted and are proprietary \nproducts of Continental Airlines, Inc. Any unauthorized use, reproduction, or \ntransfer of the message or its content, in any medium, is strictly prohibited.\nUnfortunately, mail sent to this address cannot be answered.  Please send all \ninquiries to: eservice@coair.com\n[IMAGE]\n[IMAGE]\n[IMAGE]\n[IMAGE]\n[IMAGE]"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, Jan 27, 2017 at 5:54 PM",
+            "subject": "Participating in Web Standards?",
+            "payload": "Hi There BostonJS!\nOur previous email was missing some key information, so here\u2019s some updates\nabout the W3C Technical Architecture Group\u2019s Extensible Web Summit happening\nat Bocoup the afternoon of February 10.\nThe event is going to be a great opportunity for web developers and web\nplatform developers to come together in an informal way and discuss the state\nof web standards. There will be lightning talks and moderated breakout\ndiscussion groups; if you\u2019ve never been to an unconference or want to learn\nmore about how to participate in web standards development this would be a\ngreat opportunity to do both. Also, there will be pizza and beer.\nOur standard code of conduct applies to this event and as usual all proceeds\nwill be donated to Science Club for Girls.\nTo register checkout the event's tito page: https://ti.to/bocoup/extensible-\nweb-summit\n  \n  \n  \n  \n\\--  \nPlease Note: If you hit \" **REPLY** \", your message will be sent to\n**everyone** on this mailing list (boston-javascript-list@meetup.com)  \nThis message was sent by Meetup on behalf of Matt Surabian from BostonJS.  \nTo report this message, please click here  \nTo block the sender of this message, please click here  \nTo unsubscribe from special announcements from your Organizer(s), click here"
+        },
+        "meetings": [
+            {
+                "subj": "Extensible Web Summit",
+                "loc": "Bocoup",
+                "start": "2017-02-10 12:00:00",
+                "end": "2017-02-10 19:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 4 Jun 2001 07:02:48 -0700 (PDT)",
+            "subject": "PRC Pre-Ranking Meeting EOL  RM SE5005",
+            "payload": "The meeting will commence at 9am and is planned to be finished by 11am.\nPlease come prepared with your consolidated feedback for everyone you are \nrepresenting.\nNB: Assistants, Clerks, Snr Clerks will not be discussed and ranked formally in \nthis meeting."
+        },
+        "meetings": [
+            {
+                "subj": "PRC Pre-Ranking Meeting EOL  RM SE5005",
+                "loc": "",
+                "start": "2001-06-04 09:00:00",
+                "end": "2001-06-04 11:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 18 Sep 2001 15:33:19 -0700 (PDT)",
+            "subject": "Meeting to Discuss Pricing Disruptions Last Week and Enron's\n Decision on How to Handle",
+            "payload": "Please plan to attend a meeting on Wed., Sept. 19 at 3:00 p.m. in EB 38C1 to discuss the pricing disruptions that occurred last week and what Enron's decision will be on how to handle the issue.  If there is someone else that this will affect that is not included in the invitation list, please inform them about the meeting so that all appropriate parties are made aware of the situation.  If you are unavailable, please send a representative in your place."
+        },
+        "meetings": [
+            {
+                "subj": "Meeting to Discuss Pricing Disruptions",
+                "loc": "EB 38C1",
+                "start": "2001-09-19 15:00:00",
+                "end": "2001-09-19 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thursday, June 12, 2016, 3:24:17 PM",
+            "subject": "Celebratory sign-off  on JohnDoe Product Ad-campaign",
+            "payload": "Hello All, As it was informed  us in the last meeting that the johndoe product campaign launch is scheduled for the  15th December 1786 therefore a sign off meeting has been organized by the management for us before the kick start. It marks the success of our new project significantly \ufffd Therefore we are required to be at the \ufffdBanquet hall\ufffd sharp at 4pm tomorrow, hopefully, this would serve to motivate us to make the upcoming project a grand success for our company. Come dressed for entertainment. Thank you! Janet Manuel."
+        },
+        "meetings": [
+            {
+                "subj": "Celebratory sign-off on JohnDoe Product Ad-campaign",
+                "loc": "Banquet hall",
+                "start": "2016-06-13 16:00:00",
+                "end": "2016-06-13 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 16 Mar 2001 11:33:00 -0800 (PST)",
+            "subject": "Letter sent to ISO",
+            "payload": "Here is a copy of the letter and related materials we submitted to the ISO\ntonight with the instruction that we would work to provide them additional\nnames of a representative from the risk management and investment banking\nsectors next week.  If any of you have any suggestions please let me know\nKatie Kaplan\nManager of State Policy Affairs\nIndependent Energy Producers Association\n(916) 448-9499\n-----Original Message-----\nFrom: Katie Kaplan [mailto:kaplan@iepa.com]\nSent: Friday, March 16, 2001 12:31 PM\nTo: 'Alex Sugaoka (E-mail)'; 'Bill Carlson (E-mail)'; 'Bill Woods (E-mail)';\n'Bob Ellery (E-mail)'; 'Bob Escalante (E-mail)'; 'Bob Gates (E-mail)';\n'Carolyn A Baker (E-mail)'; 'Cody Carter (E-mail)'; 'Curt Hatton (E-mail)';\n'Curtis Kebler (E-mail)'; 'David Parquet'; 'Dean Gosselin (E-mail)'; 'Doug\nFernley (E-mail)'; 'Douglas Kerner (E-mail)'; 'Duane Nelsen (E-mail)'; 'Ed\nTomeo (E-mail)'; 'Eileen Koch (E-mail)'; 'Eric Eisenman (E-mail)'; 'Frank\nDeRosa (E-mail)'; Frazier Blaylock (E-mail); 'Greg Blue (E-mail)'; 'Hap Boyd\n(E-mail)'; 'Hawks Jack (E-mail)'; 'Jack Pigott (E-mail)'; 'Jim Willey\n(E-mail)'; 'Joe Greco (E-mail)'; 'Joe Ronan (E-mail)'; 'John Stout\n(E-mail)'; 'Jonathan Weisgall (E-mail)'; 'Kate Castillo (E-mail)'; 'Kelly\nLloyd (E-mail)'; 'Ken Hoffman (E-mail)'; 'Kent Fickett (E-mail)'; 'Kent\nPalmerton'; 'Lynn Lednicky (E-mail)'; 'Marty McFadden (E-mail)'; 'Paula\nSoos'; 'Randy Hickok (E-mail)'; Rick S. Koebbe (E-mail); 'Rob Lamkin\n(E-mail)'; 'Roger Pelote (E-mail)'; 'Ross Ain (E-mail)'; 'Stephanie Newell\n(E-mail)'; 'Steve Iliff'; 'Steve Ponder (E-mail)'; 'Susan J Mara (E-mail)';\n'Tony Wetzel (E-mail)'; 'William Hall (E-mail)'; 'Alex Makler (E-mail)'; Bob\nSzymanski (E-mail); 'D. Frank (E-mail)'; 'David Dickey (E-mail)'; 'Doug\nLevitt (E-mail)'; 'Ed Maddox (E-mail)'; 'Eric Edstrom'; 'Jeff Dasovich\n(E-mail)'; 'Julie Simon (E-mail)'; 'Lucian Fox (E-mail)'; 'Mark J. Smith';\n'Milton Schultz (E-mail)'; 'Nam Nguyen'; 'Paul Wood (E-mail)'; 'Pete Levitt\n(E-mail)'; 'Rich Dyer (E-mail)'; 'Robert Frees (E-mail)'; 'Scott Harlan';\n'Ted Cortopassi (E-mail)'; 'Thomas Heller (E-mail)'; 'Tom Hartman'; 'Ward\nScobee (E-mail)'\nCc: Carol H Hudson (E-mail); Steven Kelly (E-mail); Andy Brown (E-mail);\nDouglas Kerner (E-mail); Bob Weisenmiller (E-mail); Jan Smutny-Jones\n(E-mail); 'jmpa@dynegy.com'\nSubject: URGENT PLEASE READ ASAP\nImportance: High\nGreetings:\nYesterday at the ISO several of us were successful in communicating the need\nfor a more diverse \"Market Repair Team\" that would include perhaps some\nadditional members and a \"Stakeholder Advisory Committee\".  We were also\nsuccessful in communicating our cost-benefit analysis and delaying the\nimmediate adoption of the team. The motion (approved 5-0) read:\nBoard of Governors Market Repair Team\nMOVED, that the Board approve the concept of a Market Repair Team along the\nlines described in the Florio memorandum of March 14, 2001, and directs ISO\nmanagement to provide a response to the proposal addressing among other\nissues, issues of cost/ benefit, conflicts of interest, team composition at\nthe next Board meeting.\nIEP, CMUA, SMUD, and Grid Services were all asked to submit some proposed\nnames by today to the ISO Management, please see below e-mail from Elaina:\nToday during the Public Comment, you all indicated that you might have names\nas potential members of the Advisory Group for the Market Repair Team.  It\nis not clear at this point how the whole process will be structured, but we\nhave been asked to put together a proposed game plan including names for\npotential members of the Advisory Group.  Please send them to me ask quickly\nas you can:  Friday pm is what Chairman Kahn asked for.\nWe would like to be as responsive as possible to the request and have\nthought of the idea of proposing someone that EPSA uses in a variety of\nroles.  CMUA will also probably be proposing someone from their national\norganization.  The name that has been suggested for IEP to submit is Craig\nRoach of Boston Pacific consulting who has done extensive work for EPSA in\nsupporting a competitive market policy. There is more information on Dr.\nRoach and Boston Consulting on their web site www.bostonpacific.com.  I\nspoke with Julie Simon at EPSA this morning and she also gave him an\nenthusiastic endorsement.\nAnother idea or an additional person to submit  would be an economist that\nis involved heavily in California.  Since both Hogan and Joskow have\nfinancial ties to market participants we may want to consider proposing our\nown economist.  It is the plan to submit both names to the ISO as well as a\nletter addressing the following:\n1. Raise very gently the issue of potential conflict of interest, coupled\nwith cost/benefit analysis etc\n2. Address structural issues, including how stakeholders will participate.\n3. Propose more diversity for the Market Repair Team,\n4. Propose a Stakeholder Advisory Group as a third box, and include\nstakeholders, including a regional perspective like neighboring control\nareas, and folks with operational and market experience\nIt is crucial that if this plan sends up any red flags for you that you get\nback to me ASAP.  I will be sending this letter to the ISO this afternoon\nafter we get the logistics worked out.  IF you have problems with this\ndirection please supply additional names we can route with the group.  I\nhave talked to a few companies that were at the meeting yesterday and they\nare comfortable but wanted to make sure everyone had a say.\nKatie Kaplan\nManager of State Policy Affairs\nIndependent Energy Producers Association\n(916) 448-9499\n - Letter to ISO.doc\n - Resume 03-2001.doc\n - WEISENMILLER short res2.doc\n - LIST OF TESTIMONIES AND PUBLICATION 03-2001.doc"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 9 Feb 2000 03:01:00 -0800 (PST)",
+            "subject": "Out Thurs & Friday",
+            "payload": "I will be out of the office on Thursday and Friday.  My pager may not reach \nme but I will be checking my voice mail.\nPlease call George Grant in my absence at ext. 36224.   Thanks,   Pat\nGet with me today if you need anything by the end of the week."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 10 Dec 2001 10:59:25 -0800 (PST)",
+            "subject": "Data Room (Louise Kitchen)",
+            "payload": "Please plan to attend a meeting today at 3:30 p.m. in ECS 06980.  The topic is \"Data Room\".\nAttendees:\nLouise Kitchen\nWes Colwell\nDavid Oxley\nAndy Zipper\nPhillip Allen\nBill Bradford\nDebbie Brackett\nSally Beck\nDavid Port\nMark Haedicke\nThanks!\nTammie Schoppe\nEnron Americas-Office of the Chair\nAssistant to Louise Kitchen\n713.853.4220 office \n713.646.8562 fax\n713.253.2131 mobile\n"
+        },
+        "meetings": [
+            {
+                "subj": "Data Room",
+                "loc": "ECS 06980",
+                "start": "2001-12-10 15:30:00",
+                "end": "2001-12-10 16:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 12 Nov 2001 22:28:00 -0800 (PST)",
+            "subject": "FREE SHIPPING from Zip Products",
+            "payload": "<META HTTP-EQUIV=\"Content-Type\"CONTENT=\"text/html; charset=iso-8859-1\"><!DOCTYPE HTML PUBLIC \"-//W3C//DTD W3 HTML//EN\">\n<!--To view this properly, go to: http://link.ixs1.net/s/ve?eli=z9841&si=m18456351&cfc=3html -->\n<html>\n<head>\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n</head>\n<body bgcolor=\"#ffffff\">\n<img src=\"http://link.ixs1.net/s/om?ei=z9841&si=m18456351\" width=\"1\" height=\"1\"  border=\"0\"><img src=\"http://link.ixs1.net/s/om?ei=z9841&si=m18456351\" width=\"1\" height=\"1\"  border=\"0\">\n<TABLE border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" width=\"579\">\n    <TR> \n        <TD align=\"center\" width=\"533\"><a href=\"http://link.ixs1.net/s/lt?id=r1922&si=m18456351&pc=82001&ei=z9841\">\n            <img src=\"http://link.ixs1.net/site/1781/images/zipbanner.gif\"  border=\"0\"></a>\n        </TD>\n    </TR>\n</TABLE>\n<br>\n<TABLE border=\"0\" cellPadding=\"0\" cellSpacing=\"0\" width=\"579\">\n    <TR> \n        <TD width=\"579\"> \n            <TABLE border=\"0\" width=\"578\">\n                <TR> \n                    <TD>\n                            <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\" color=\"darkblue\">\n                            Welcome to Zip Products E-Catalog!!\n<br>\n<br>\nZip Online Store News - Just this week, Zip Products broke down our Online store into two completely different stores.  Zip's new restoration store serves the needs of 56-82 Corvette, while Zip's new C4 & C5 storefront includes the latest in C4 & C5 bolt-on performance, exterior accessories, interior items, and a new expanded C4 restoration section.  Stop by and check it out.\n<br>\n<br>\nFREE SHIPPING - To celebrate the our new Corvette Specialty Stores, Zip has launched a FREE SHIPPING program good through the end of November.  Just type in coupon code ZIP-02 to get FREE SHIPPING on items ordered through our ONLINE STORE.  For more details, check out our E-catalog below.\n<br>\n<br>\nThanks in advance for taking a moment to browse our E-catalog for 84-02 Corvettes. If you own an earlier model, reply to this e-mail and we'll forward the correct copy for your Corvette.\n<br>\n</font>\n                    </TD>\n                </TR>\n            </TABLE>\n            <div align=\"center\">\n            \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>Corvette Accessories - The Holidays are Coming!!\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>Show off your Corvette Style with a Corvette Watch\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13022.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Chronograph Watch with Stainless Steel Band and Black Face. Features Three-Hand/Date, Calendar & Chronograph movement. Water resistant up to 30 meters. Comes with free collectible tin can. Includes 3 year limited warranty. Available in Men's only.\n<br>\n<br>\nCheck out our great introductory prices on our Full selection of Corvette watches and wall clocks.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=659612&si=m18456351\">Check out our complete selection Corvette Watches & Wall Clocks\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>Corvette Cooler\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" width=\"200\" height=\"156\" src=\"http://link.ixs1.net/site/1781/content/13023.gif\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       You need a cooler for those weekend events - why note tote your beverages in style in one of these all-new Corvette coolers. Made by IGLOO and sporting the Corvette logo. Available in a 16-can soft side model with a convenient outside storage compartment. Includes thick foam insulation, adjustable storage strap, and embroidered Corvette logo. 14 1/16\" x 8 3/4\" x 8 7/8\". 5 year warranty.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=g59613&si=m18456351\">Corvette Igloo Coolers.....\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>C4 & C5 Accessories Online\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" width=\"200\" height=\"151\" src=\"http://link.ixs1.net/site/1781/content/13024.gif\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       The Holidays are coming!! - Zip Products has been loading hundreds of new and exciting accessories for the Corvette enthusiasts.  When looking for those under the tree items, browse the Zip online store for the latest in Corvette Apparel, Clocks & Watches, Computer Accessories, Signs, Key Chains, Corvette Art and More......\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=759614&si=m18456351\">Tons of Corvette Accessories......\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>Electronic Gadgets\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>G-Tech Pro Performance Meter\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13025.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       G-TECH/Pro is an electronic Performance Meter for automobiles. It's designed to make a professional test driver out of anybody. All you have to do is plug it in a cigarette lighter, mount it to the windshield and start accelerating. G-TECH/Pro does the rest automatically and displays the results. It's a great way to get performance and safety information about you car.\n<br>\n<br>\nThe heart of the G-TECH/Pro is a precision silicon accelerometer. An accelerometer is a sensor that measures acceleration, also known as G-Force.\n<br>\n<br>\nThe G-TECH/Pro measures 0-60 time, 1/4 mile Time and Speed, Cornering G's, 60-0 Braking Distance & Horsepower.\n<br>\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=h59615&si=m18456351\">See what you Corvette's horsepower really is......\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>C4 Restoration\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>C4 Restoration\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" width=\"200\" height=\"204\" src=\"http://link.ixs1.net/site/1781/content/13026.gif\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Zip Products has been working hard to complete our C4 restoration section.  Well over 1500 items are listed within in our website for the restoration and maintenance of your C4.  Just this week we have added over 100 line diagrams and many color images to help you identify the parts.  Count on Zip Products to carry the items you need to keep your C4 on the road.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=859616&si=m18456351\">Our complete list of C4 restoration parts is here.....\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>C4 Window Seal Installation\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13027.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Tired of looking at those UGLY, BROKEN, DISINTEGRATING, door window seals on your C4.  Zip Products has teamed up with CorvetteMagazine.com to bring you an informative technical article on \"How to Replace your Door Window Seals\".  Purchase a new set online through our online store and then click over to CorvetteMagazine.com and let the experts show you just how the window seals should be installed.\n<br>\n<br>\nLook for more exciting and informative articles for your C4 from CorvetteMagazine.com and Zip Products.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=h59651&si=m18456351\">Zip Products 84-96 Door Window Seals\n</a>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=p59688&si=m18456351\">Check out CorvetteMagazine.com installation article on C4 Door Window Seals....\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>Corsa Exhaust Specials\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>November Specials on C4 & C5 Corsa Exhaust Systems\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13029.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       For a perfect mix of performance, sound and looks in a cat back exhaust system, this is it. Corsa's patented Power Pulse RSCTM (Reflective Sound Cancellation) technology uses sound waves to enhance the throaty LS1 power pulses and eliminate exhaust drone and interior resonance. The Touring Edition provides a crisp, exotic car sound with a whisper quiet cruise note. The Pace Car Edition has a broader, more aggressive tone at full throttle.  Exhaust systems are hand built of 316L stainless steel and feature a 2 1/2 straight through muffler design to increase flow 45% over the stock system.\n<br>\n<br>\nAlong with FREE SHIPPING, Zip Products has some great November specials on Corsa Exhaust Systems and Cross-Over Pipes.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=l59666&si=m18456351\">Zip Products complete selection of Corsa Exhaust Systems are listed here....\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>New Products\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>Engine Compartment Accessories\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13028.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Whether you are looking for a complete Engine Dress-up Kit or just a couple of pieces to set your engine off, Zip Products is the source.  We have worked with several manufactures this year to provide you the latest in Engine Compartment Accessories.  This week we have added a new LS6 Throttle Body ID Plate and several new Stainless Steel Engine Covers including a Power Steering Pump Reservoir Cover and an Upper Radiator Support Cover Set.\n<br>\n<br>\nZip Products will keep you informed of the latest products, count on it.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=m59667&si=m18456351\">C5 Engine Compartment Accessories\n</a>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=959708&si=m18456351\">C4 Engine Compartment Accessories\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>NEW Billet Shift Knobs\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" src=\"http://link.ixs1.net/site/1781/content/13030.jpg\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       The latest performance enhancement from Advanced Performance a new C5 Billet 6 Speed Shift Knob, \"Gripper\".  The \"Gripper\" is a CNC machined shift knob, cut specifically to provide you maximum grip with a new design unlike any other Corvette shift knob.  Polished billet aluminum is then anodized (Clear, Black, or Blue)and then engraved with a 6-speed shift logo so you never miss another shift.  Premium materials and a quality finish ensure this shift knob will look and perform to the standards of your C5.\n<br>\n<br>\nComing Soon - A new C4 6-speed Billet \"Gripper\" Shift Knob\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=j59709&si=m18456351\">\"Gripper\" Shift Knobs, just click here...\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>FREE SHIPPING\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>FREE SHIPPING - Through November 30th\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Zip Products is pleased to offer FREE SHIPPING on all orders over $50.00 placed through our online store until November 30th, 2001.  Some restrictions do apply.  FREE SHIPPING is unavailable on Air Packages, Truck Items, and any other priority shipping method.  To get FREE SHIPPING, you must use Zip coupon code - ZIP-02 - when placing your order through our online storefront.  FREE SHIPPING is only available on orders placed through our website.\n<br>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n            <TABLE border=\"1\" width=\"578\" bgcolor=\"#ffffff\" align=\"center\" cellspacing=\"0\" cellpadding=\"4\">\n                <TR> \n                    <TD> \n                         <p align=\"center\"><FONT face=\"Arial,Helvetica,Verdana, sans-serif\" size=\"-0\">\n                         <B>Zip Teams Up with Corvette Magazine\n</B></FONT></p>\n                         \n                         <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\">\n                         <b>The Hobby's Best Corvette Magazine -- Free at Corvette Magazine.com\n</b></font></p>\n                         <table border=\"0\" cellpadding=\"4\" cellspacing=\"0\">\n                              <tr>\n                                  <td><img align=\"left\" width=\"145\" height=\"145\" src=\"http://link.ixs1.net/site/1781/content/8827.gif\"></td>\n                                  <td><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">\n                                       Updated weekly, CorvetteMagazine.com is the premier on-line source for the latest in Corvette News, events, feature stories and technical articles.\n<br>\n<br>\nCorvetteMagazine.com has over 200 articles in the archive sections, hundreds of Corvettes in the photo gallery, and thousands of parts, accessories and Corvettes for sale in the Classifieds.  Read what's new today.\n<br>\n                                       \n                                       <br>\n                                       <a href=\"http://link.ixs1.net/s/link/click?rc=al&rti=k59674&si=m18456351\">GO TO CorvetteMagazine.com\n</a>\n                                       \n                                       </font>\n                                 </td>\n                            </tr>\n                   </table>\n                   <br>\n                   \n                </TD>\n           </TR>\n      </TABLE>\n      <br>\n      \n     </div>\n      <p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-1\" color=\"darkblue\">\n      Thank you for viewing Zip Products' November E-catalog.  Your email address was submitted when you opted-in through our on-line catalog request form.  We appreciate the opportunity to send notices of specials directly to you; to ensure your continued trust in Zip, we pledge never to share your e-mail address with any other company.\n      <p></font>\n      <font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"-2\">To unsubscribe to this publication, just reply to this message and \n      put \"unsubscribe\" somewhere in the subject line. <a href=\"http://link.ixs1.net/s/link/usp?rc=ue&rti=z9841&si=m18456351\">You \n      can also unsubscribe by clicking here. </a> </font>\n      </font>\n      </p>\n      </TD>\n   </TR>\n</TABLE>\n</BODY>\n</HTML>"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thursday, May 05, 2016 11:44:57 AM",
+            "subject": "Program Review Committee meeting today",
+            "payload": "The Program Review Committee will meet today from 3:15 - 4:45 in room A213. All are welcome to attend. The agenda is attached. Thank you - \nJudith Bell\nChair, PRvC"
+        },
+        "meetings": [
+            {
+                "subj": "The Program Review Committee",
+                "loc": "",
+                "start": "2016-05-05 15:15:00",
+                "end": "2016-05-05 16:45:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 22 Nov 2000 05:54:00 -0800 (PST)",
+            "subject": "Janette Elbertson Has Completed Successful Working Relationships  -\n Creating Understanding",
+            "payload": "Thank you for supporting Janette Elbertson in attending Successful Working \nRelationships  - Creating Understanding on November 3, 2000.\n$450 has been charged to your Company and RC.  If you have any questions, \nplease call the Development Center Team at 713-853-0357."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thursday, June 11, 2016, 3:24:17 PM",
+            "subject": "Funding & Testing",
+            "payload": "Please join us for a short 10 minute meeting to learn more about important issues that will impact our funding, our contract, and the amount of testing our students will face. This will be a great opportunity to find out how you can take action to make sure that educators\ufffd voices are heard loud and clear in these debates. We will be meeting at 9:00 on Thursday 16th June 2016 in the Main Corpus. Thanks, Your MSEA Building Representative"
+        },
+        "meetings": [
+            {
+                "subj": "Funding & Testing",
+                "loc": "Main Corpus",
+                "start": "2016-06-16 09:00:00",
+                "end": "2016-06-16 09:10:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Sun, 13 May 2001 12:33:00 -0700 (PDT)",
+            "subject": "Remote control your air-conditioner and heater",
+            "payload": "NewPower to offer another pilot program to Houston employees\nFree remote energy management solution helps you to manage rising energy \nbills.\nNewPower is launching a revolutionary technology pilot to the first 500 \npeople to sign up in the Houston area.  The NewPower Connections Remote \nEnergy Management Solution is a pilot program designed to give consumers \ncontrol of their thermostat via the Internet.  The program will allow \nthermostats to be adjusted from anywhere, with any Internet-enabled device, \nincluding computers, web-enabled cell phones, palm OS devices, or pocket \nPCs.  Sears Home Central will install and service the Remote Energy \nManagement Solution at no charge throughout the duration of the pilot \nprogram.  For a typical household, the three-month pilot could result in up \nto 10 percent to 15 percent utility bill savings, based on personal usage and \nthe size of your home.  \nBe among the first to participate absolutely free.\nEnrollment with the NewPower Connections Remote Energy Management Solution \npilot program starts May 14 and continues through the end of the month.  For \nmore information about this offer, visit NewPower's table located in the \nPlaza of the Enron Building near the down escalator from 11:00 a.m. to 2 p.m. \nduring the week of May 14.  To become a pilot participant you need only to be \na homeowner in the Houston area and have Internet access.  You do not even \nhave to be a NewPower electricity customer to participate.  For more \ninformation about NewPower Connections, send an e-mail to \nconnections@newpower.com.\nDisclaimers:\nAny contract for goods or services that is entered into by an Enron employee \nwith respect to the NewPower program shall be solely between NewPower and \nsuch employee.  Enron assumes no obligation on behalf of NewPower and makes \nno representations, warranties, or guaranties with respect to NewPower, any \ngoods or services offered or provided by NewPower.  Home.Enron.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 17 Apr 2002 14:18:35 -0700 (PDT)",
+            "subject": "Block for Portland team update of California Scheduling and CAPS /\n ENPower data entry",
+            "payload": "We all need to have a discussion around current California processes for both the business which is being processed for EPMI as well as the Services business we are providing to our customers.\nI would like to walk through each process tomorrow and make sure that everyone understands their roles.\nIn addition, I feel that everyone needs to understand how to do the other persons job.  I know in some cases this will be harder for some than others.  Trying to understand all of the settlement processes is not something that I expect everyone to pick up. However,  I do expect everyone to know how the scheduling process works and if needed how they can back fill.\nPrimary area's to cover.\n1.\nEnergy Forecasting\n-\nWholesale\ni.\nPerf. Book only (Active Deals)\n-\nRetail \ni.\nAll Active Deals \n2.\nEnergy Procurement \n-\nWholesale \n-\nRetail \n3.\nPhysical Scheduling DA, HA & RT Responsibilities\n-\nBasic process \ni.\nReceive Daily Forecasts /  (Whole & Retail)\nii.\nCreate and Submit Aggregated Schedules as SC to ISO\niii.\nRetrieve Final ISO schedules and dis-aggregate and check for variances\niv.\nManage variances & RT adjustments (CAPS, EnPower, Estate Sheet)\n-\nTools Used\ni.\nInputs\nii.\nOutputs\n4.\nDaily Estimation process\n5.\nDaily Meter Data Submittal\n6.\nDaily Preliminary Settlement Statement Processing\n7.\nDaily Dispute Process\n8.\nDaily Final Settlement Statement Processing\n9.\nISO Monthly estimated pre-payment\n-\nCalculation\n-\nESS Settlement prepayment (EPMI Allocation?)\n10.\nPhysical EPMI Settlement with Customers / Books\n-\nCommodity \n-\nGrid Management / Market Transmission Transactions\n-\nExternal Customers\ni.\nISO\nii.\nHanson\niii.\nPilot Power\n-\nInternal Customers\ni.\nEES / PGES\nii.\nBook Allocations (Should not be required any longer)"
+        },
+        "meetings": [
+            {
+                "subj": "Block for Portland team update of California scheduling and CAPS ENPower data entry",
+                "loc": "",
+                "start": "2002-04-18 12:00:00",
+                "end": "2002-04-18 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, Oct 17, 2016 at 11:15 PM",
+            "subject": "Upcoming React Training in Boston",
+            "payload": "Hey Boston JavaScripters,\nWanted to share some info about a local, in-person React-\"It's so hot right\nnow\".js training class happening at the end of the month. Ryan Florence and\nMichael Jackson will be in town teaching a fundamentals and an advanced class\nat Cengage Learning; here's a link to learn more.\nRelatedly, be sure to share on the meetup page or in Slack if you get a line\non other trainings or resources you think your fellow Bostonians would enjoy!\nbunny kisses,\nJory\n  \n  \n  \n  \n\\--  \nPlease Note: If you hit \" **REPLY** \", your message will be sent to\n**everyone** on this mailing list (boston-javascript-list@meetup.com)  \nThis message was sent by Meetup on behalf of Jory Burson from BostonJS.  \nTo report this message, please click here  \nTo block the sender of this message, please click here  "
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 4 May 2001 03:25:00 -0700 (PDT)",
+            "subject": "opec basket of crude as a hot link",
+            "payload": "The information contained herein is based on sources that we believe to be\nreliable, but we do not represent that it is accurate or complete.  Nothing\ncontained herein should be considered as an offer to sell or a solicitation\nof an offer to buy any financial instruments discussed herein.  Any\nopinions expressed herein are solely those of the author.  As such, they\nmay differ in material respects from those of, or expressed or published by\non behalf of Carr Futures or its officers, directors, employees or\naffiliates.  , 2001 Carr Futures\nThe charts are now available on the web by clicking on the hot link(s)\ncontained in this email. If for any reason you are unable to receive the\ncharts via the web, please contact me via email and I will email the charts\nto you as attachments.\nOPEC Basket of Crude     http://www.carrfut.com/research/Energy1/opec50.pdf\nCarr Futures\n150 S. Wacker Dr., Suite 1500\nChicago, IL 60606  USA\nTel:  312-368-6149\nFax:  312-368-2281\nsoblander@carrfut.com\nhttp://www.carrfut.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 23 May 2001 10:12:11 -0700 (PDT)",
+            "subject": "sandy cortez",
+            "payload": "meeting at 4.30"
+        },
+        "meetings": [
+            {
+                "subj": "sandy cortez",
+                "loc": "",
+                "start": "2001-05-23 16:30:00",
+                "end": "2001-05-23 17:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 23 Jan 2002 07:54:55 -0800 (PST)",
+            "subject": "Shop for great Valentine's Day gifts",
+            "payload": "\n#1 bridal site - The Knot \n[IMAGE]\n [IMAGE]  \n Come February 14, romance is a given. How do you like to celebrate? Whether you prefer breakfast in bed or a cozy dinner for two, be sure to treat your special someone to a little something. Need some ideas? We've created a roundup of great gifts to make it easy to indulge your honey.   Click here to browse our Sweetheart Gifts boutique.    And remember to order by February 7 for delivery by Valentine's Day.  Best wishes,  The Knot Gift Store & Registry   (Our idea of the perfect Valentine's Day gift? A romantic champagne toast to the one you love!)  \n[IMAGE]\nYou have received this email because you requested to receive email updates from The Knot.  To stop receiving Newsflash updates, please reply to this email with *Remove* in the subject line.   Replying to this email will remove you only from this update, not all updates.   To remove yourself from all of our email communications, please visit: http://www.theknot.com/email .  To update your wedding date or email address, please visit: http://www.theknot.com/profile .   As a member of the TRUSTe privacy program, The Knot is committed to protecting your privacy.\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 24 Oct 2001 04:49:31 -0700 (PDT)",
+            "subject": "Pira Bi-Annual Meeting",
+            "payload": "PIRA will be presenting there 6 month outlook .\nAn e-mail with the agenda will follow in the next week or so.\nIf there are any topics you would like them to cover, please let me know.\nThank You \nRika"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 28 Aug 2001 09:54:51 -0700 (PDT)",
+            "subject": "Enterprise Wide Risk Data Flow Re:  London  - Steve Stock",
+            "payload": "Wants to get a clearer sense of your thinking on this issue prior to his trip to London 9/10."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 24 Oct 2001 04:49:45 -0700 (PDT)",
+            "subject": "Pira Bi-Annual Meeting",
+            "payload": "PIRA will be presenting there 6 month outlook .\nAn e-mail with the agenda will follow in the next week or so.\nIf there are any topics you would like them to cover, please let me know.\nThank You \nRika"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 17 Sep 2001 12:30:19 -0700 (PDT)",
+            "subject": "Business review of end-to-end ERCOT deal flow",
+            "payload": "All,\nWe had a business review of the ERCOT Volume Management processes this morning and decided we should tag up with scheduling and trading prior to or review with ESCA on Wednesday.  The objective of this meeting on Tuesday is to review a systems drawing provided to us from ESCA.  We can make additions/modifications to the drawing to review with ESCA during our Wednesday meeting.  \nI will send out the systems drawing by COB today.   \nPlease let me know if you have any questions/comments or you would like to add others to the meeting.  \nThank you.\nDebra"
+        },
+        "meetings": [
+            {
+                "subj": "Business review of end-to-end ERCOT deal flow",
+                "loc": "",
+                "start": "2001-09-18 12:00:00",
+                "end": "2001-09-18 13:00:00"
+            },
+            {
+                "subj": "Business review of end-to-end ERCOT deal flow",
+                "loc": "",
+                "start": "2001-09-19 12:00:00",
+                "end": "2001-09-19 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 12 Feb 2001 23:07:00 -0800 (PST)",
+            "subject": "Long Letter - from Trina",
+            "payload": "Hello! Trina has just sent you a greeting card from Bluemountain.com.\nYou can pick up your personal message here:\nhttp://www6.bluemountain.com/cards/boxf224248v5/xr3wp6kmkyaxp6.html\nYour card will be available for the next 90 days\nThis service is 100% FREE! :) Have a good day and have fun!\n________________________________________________________________________\nAccessing your card indicates agreement with Blue Mountain's Website Rules:\nhttp://www.bluemountain.com/home/WebsiteRules.html\nSend FREE Blue Mountain cards to friends and family (and attach gifts too!)\nhttp://www.bluemountain.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 4 Jun 2002 05:38:27 -0700 (PDT)",
+            "subject": "BNP PARIBAS Commodity Futures Weekly EIA Survey",
+            "payload": "\nGood Morning,\nHere are this week's stats:\nAGA Last Year       +117\n5 yr AVG                       +93\nLifetime High            +117 2001\nLifetime Low                        +78         2000\nGas in STGE EIA                 1796\n5yr AVG             1306\n+/- to 2001              +614\n+/- to 5yr AVG           +490\nPlease have your estimates in by 2:00 (1:00 CST) Wednesday.  Thank you.\n(Embedded image moved to file: pic18975.pcx)\nThis message and any attachments (the \"message\") is\nintended solely for the addressees and is confidential. \nIf you receive this message in error, please delete it and \nimmediately notify the sender. Any use not in accord with \nits purpose, any dissemination or disclosure, either whole \nor partial, is prohibited except formal approval. The internet\ncan not guarantee the integrity of this message. \nBNP PARIBAS (and its subsidiaries) shall (will) not \ntherefore be liable for the message if modified. \n                ---------------------------------------------\nCe message et toutes les pieces jointes (ci-apres le \n\"message\") sont etablis a l'intention exclusive de ses \ndestinataires et sont confidentiels. Si vous recevez ce \nmessage par erreur, merci de le detruire et d'en avertir \nimmediatement l'expediteur. Toute utilisation de ce \nmessage non conforme a sa destination, toute diffusion \nou toute publication, totale ou partielle, est interdite, sauf \nautorisation expresse. L'internet ne permettant pas \nd'assurer l'integrite de ce message, BNP PARIBAS (et ses\nfiliales) decline(nt) toute responsabilite au titre de ce \nmessage, dans l'hypothese ou il aurait ete modifie."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 6 Mar 2001 10:38:00 -0800 (PST)",
+            "subject": "\"paperless confirms\"",
+            "payload": "Mark:  Where do we stand on this issue?\nSara Shackleton\nEnron North America Corp.\n1400 Smith Street, EB 3801a\nHouston, Texas  77002\n713-853-5620 (phone)\n713-646-3490 (fax)\nsara.shackleton@enron.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 6 Aug 2001 12:12:37 -0700 (PDT)",
+            "subject": "Storage Valuation Meeting",
+            "payload": "Please plan on attending meeting to discuss Storage Valuation, on:\nDate:    Wednesday August 15, 2001\nTime:     3:00pm - 4:00pm\nPlace:    EB32c2\nThank You,\nVanessa Berrios\nAdministrative Assistant \nfor Rita Wynne & Mark McClure\n(713)345-4197"
+        },
+        "meetings": [
+            {
+                "subj": "Storage Valuation Meeting",
+                "loc": "EB32c2",
+                "start": "2001-08-15 15:00:00",
+                "end": "2001-08-15 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 17 Sep 2001 12:30:19 -0700 (PDT)",
+            "subject": "Business review of end-to-end ERCOT deal flow",
+            "payload": "All,\nWe had a business review of the ERCOT Volume Management processes this morning and decided we should tag up with scheduling and trading prior to or review with ESCA on Wednesday.  The objective of this meeting on Tuesday is to review a systems drawing provided to us from ESCA.  We can make additions/modifications to the drawing to review with ESCA during our Wednesday meeting.  \nI will send out the systems drawing by COB today.   \nPlease let me know if you have any questions/comments or you would like to add others to the meeting.  \nThank you.\nDebra"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 24 Oct 2001 15:57:53 -0700 (PDT)",
+            "subject": "Meeting re: Portland",
+            "payload": "I am also sending you a forward of a meeting I am supposed to have with Scotty Gilbert and Jeff Richter tomorrow - hope you can join us.\nStacey"
+        },
+        "meetings": [
+            {
+                "subj": "Meeting",
+                "loc": "",
+                "start": "2001-10-25 12:00:00",
+                "end": "2001-10-25 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 30 Jan 2002 13:03:43 -0800 (PST)",
+            "subject": "Fundamentals Meeting",
+            "payload": "When: Friday, February 01, 2002 10:00 AM-11:30 AM (GMT-06:00) Central Time (US & Canada).\nWhere: ECS5990\n*~*~*~*~*~*~*~*~*~*\nAgenda: \n1. The Role of the Fundamentals Group (Kevin Presto) \n2. Review of Fundamental Reports and Projects\n3. Discussion on Traders Project Needs and Priority \n4. Specific Project Discussion\n-API & Oil Forecasts (Gus Giron)\n-Short Term Model Template (Gus Giron)\n-AGA & Gas Fundamentals (Mauricio Marquez)\n \n-Weekly Historical Interchange  Template (Mauricio Marquez )\n-Congestions Template (Martin Lin) \n-Price Sheet Updates  (Gulay Soykok) \n-Long Term Model ( Gus Giron & Gulay Soykok) \n5. Regional Analysts\n-Communication with trading group\n6. Upcoming Fundamental Presentations to the Traders\nPlease see attached information for a list of projects and responsibilities \n <<EAST POWER FUNDAMENTALS.doc>>"
+        },
+        "meetings": [
+            {
+                "subj": "Fundamentals Meeting",
+                "loc": "ECS5990",
+                "start": "2002-02-01 10:00:00",
+                "end": "2002-02-01 11:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 15 Nov 2001 10:51:29 -0800 (PST)",
+            "subject": "Updated: ECS 04102 - Follow-Up Mtg. w/BHall, HShively, SNeal,\n MGrigsby, TMartin, DBlack - Re:  Gas Logistics",
+            "payload": "\nSally would like to have another meeting as was done yesterday in her office today - ECS 04102.\nThank you,"
+        },
+        "meetings": [
+            {
+                "subj": "Follow-Up Mtg",
+                "loc": "ECS 04102",
+                "start": "2001-11-15 12:00:00",
+                "end": "2001-11-15 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, Sep 26, 2017 at 6:03 PM",
+            "subject": "You're invited to Ruby Meditation #18 (Oct 7, 2017)",
+            "payload": "You are invited to the following event:\nRuby Meditation #18\n|  |\nEvent to be held at the following time, date, and location:\nSaturday, October 7, 2017 from 11:00 AM to 6:00 PM (EEST)\n**UNDERHUB**  \nMechnikova 3  \n  \nUkraine  \n  \nView Map  \n  \n---|---  \n  \n|  |  **Attend Event**  \n---  \n  \n**Share this event:**\n|  |  |  \n---|---|---  \n  \nWelcome to **Coderetreat** , which will be held on Friday, October 6th and\n**Ruby Meditation #18** on Saturday, October 7th.\nThe Coderetreat it is the training of effective code skills in pairs. This\ntraining displaces focus from the usual principle 'getting things done' to the\nprogrammers' skills.\nTickets here: https://www.eventbrite.com/e/coderetreat-tickets-38228470384\nOn Saturday during Ruby Meditation #18 you will get new knowledge about\ninfrastructure, performance, patterns, application development, AI and much\nmore. We are happy to announce our awesome speakers from Ukraine and Belarus:\n  * **Anti-IF Missing Pattern** \\- John Sergyenko \n  * **How I Learned to Stop Worrying and Love Command Pattern** \\- Kirill Suhodolov \n  * **Rupher = Ruby + Gopher** \\- Alexander Simonov \n  * **AI** \\- Aliaksander Lomau \nThe full program will be declared soon.\nBoth of this event will be held in Underhub on 3 Mechnikova str.\nPlease, share your interesting experience in Ruby development as a speaker on\nLightning talks by filling in the form -\nhttps://goo.gl/forms/NtcsKQscUGqd7dLn1.\nIf you have any questions or suggestions, don't hesitate to contact us via\ncell phone: 096 611 7673 or by email rubymeditation@gmail.com\nPlease, share this event on Facebook and Twitter\nSee you next week!\nCheers,Ruby Meditation & Elixir Club Team "
+        },
+        "meetings": [
+            {
+                "subj": "Ruby Meditation #18",
+                "loc": "**UNDERHUB** Mechnikova 3 Ukraine",
+                "start": "2017-10-07 11:00:00",
+                "end": "2017-10-07 18:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 17 Oct 2001 08:38:46 -0700 (PDT)",
+            "subject": "Blend vs. Non-blend Volatility Discussion",
+            "payload": "Please invite anyone I may have missed.\nThanks,\nStacey"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 18 Oct 2001 12:31:24 -0700 (PDT)",
+            "subject": "Canceled: EES Risk Process review for EES/WHS Integration Team",
+            "payload": "Kristin,  We needed to reschedule this meeting with you for next week.   I believe we will make better use of our time with you if we are more prepared going into the meeting.  I will contact you next week to schedule time.  \nThank you for your support. \nDebra\nI updated the room to 2557.\nSee you there.  Debra\nThis is a follow up from today's meeting since we ran out of time to discuss EES Risk.  \nThank you for your help on this effort.\nDebra"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, Feb 1, 2018 at 3:02 PM",
+            "subject": "You're invited to Special Ruby Meditation #20 (Feb 17, 2018)",
+            "payload": " Hello \u0414\u0436\u043e\u043d,  **  \nYou are invited to the following event:\nSpecial Ruby Meditation #20\n|  |\nEvent to be held at the following time, date, and location:\nSaturday, February 17, 2018 from 11:00 AM to 6:00 PM (EET)\n**HUB 4.0**  \n1/3 Yaroslavs'kyi Lane  \n02000 Kyiv  \nUkraine  \n  \nView Map  \n  \n---|---  \n  \n|  |  **Attend Event**  \n---  \n  \n**Share this event:**\n|  |  |  \n---|---|---  \n  \nHi!\nCome on the coolest event 20th Ruby Meditation! It will be held February 17,\nKyiv, HUB 4.0. Yaroslavsk\u2019yi lane 1/3.\nOn Special 20th Ruby Meditation you\u2019ll hear:\n  * **\u201cCryptography: way to Arkham\u201d -** Andriy Savchenko\n  * **\u201cRuby JIT compilation\u201d -** Mykhail Bortnyk\n  * **\u201cMonads are monoids in the category of endofunctors\u2019 explained\u201d -** Ike Kurghinyan\n  * **\u201cProfessional Code Reviews\u201d -** Bogdan Gusiev\n  * **\u201cAmbiguous Sinatra\u201c -** Vadim Evseev \nOur special afterparty sponsor **Talkable**invites you to have fun at the\nFirst Official Afterparty.  \nThanks to our regular sponsors: **Aejis, Gera-IT, Svitla.**\nIf you like Ruby and want to:\n  * Get new knowledge about infrastructure, performance, patterns, application development\n  * Get professional communication\n  * Discuss some issue\n  * Meet new people or old friends\n  * Have great time\nThen come on Ruby Meditation #20! We are waiting for you!\nDo you have non trivial experience, interesting topic and want to share it?\nRuby Meditation is for you. Come to us and try yourself as a Speaker. More\ninformation about speaker's opportunity you can get here.\nAlso, you can share your experience with short 5-10 mins message on Lightning\ntalks session, which goes after main program. Fill this form in if you want to\nbe a speaker.\nIf you have any questions or suggestions, don't hesitate to contact us via\ncell phone: 0992026308 or by email rubymeditation@gmail.com\nPlease, share this event on Facebook and Twitter\nMore information on our website.\nStudents, who interested in ruby and have a willingness to visit Ruby\nMeditation will get a discount 50% with promo-code \u2018student\u2019.\nIf you are a parent of a small baby (0-3 years) on maternity leave and you\nwant to learn more about ruby development you can get a special discount for a\nticket with promo-code \u2018GrowWithYourKid\u2019.\nYours sincerely,\nRuby Meditation Team"
+        },
+        "meetings": [
+            {
+                "subj": "Ruby Meditation #20",
+                "loc": "**HUB 4.0** 1/3 Yaroslavs'kyi Lane 02000 Kyiv Ukraine",
+                "start": "2018-02-17 11:00:00",
+                "end": "2018-02-17 18:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 18 Oct 2001 16:35:17 -0700 (PDT)",
+            "subject": "Action Required:  Attend West Power Staff Meeting",
+            "payload": "Please make plans to attend a West Power Trading luncheon staff meeting.\nDate:  Monday, October 22\nPlace:  Mt. Hood Conference Room\nTime:  11:00 a.m. -- Lunch will be served.  \nPlease let Debra know if you have a scheduling conflict and cannot attend."
+        },
+        "meetings": [
+            {
+                "subj": "West Power Staff Meeting",
+                "loc": "Mt. Hood Conference Room",
+                "start": "2001-10-22 11:00:00",
+                "end": "2001-10-22 12:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 12 Sep 2001 08:49:35 -0700 (PDT)",
+            "subject": "Weekly Spark-Gap Tag-up",
+            "payload": "I would like us to meet as a group weekly to review project status and business requirements.  I will provide a detailed agenda on Wednesday's.  \nThis week only, we will meet today at 4:00. \nThanks. \nDebra"
+        },
+        "meetings": [
+            {
+                "subj": "Weekly Spark-Gap Tag-up",
+                "loc": "",
+                "start": "2001-09-12 16:00:00",
+                "end": "2001-09-12 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 21 Feb 2018 13:37:49 +0000",
+            "subject": "Itera's address",
+            "payload": "**Dear John,**\nI am glad to invite you for an interview at **Itera Ukraine**.\nPlease come to our office at Forum business center   - 13  Pymonenka str. on\n**Friday, the 23 rd of February at 11:00**.\nOur building is 1\u0412-5A,  entrance to the office from the 5th floor. Please call\n**Yulia** on **+ 38(068)2765033** when you come.\nHere is a map with our office marked.\n**Please confirm me receiving of this email.**\nBest regards,\n**Yulia Khomenko**\nRecruitment Assistant\n+38 068 276 50 33\nSkype: khomenko.juliya"
+        },
+        "meetings": [
+            {
+                "subj": "Interview at Itera",
+                "loc": "Forum business center - 13 Pymonenka str.",
+                "start": "2018-02-23 11:00:00",
+                "end": "2018-02-23 12:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 30 May 2001 06:13:57 -0700 (PDT)",
+            "subject": "KE Southern LNG Deals",
+            "payload": "Please plan to attend the KE Southern LNG Deals meeting \nDate: \nWednesday, May 30, 2001\nTime:\n \n4:00 - 6:00\nLocation: \nEB 3259\n If you have any questions please contact Mark Breese x36751.\nMelissa Solis\nx35167"
+        },
+        "meetings": [
+            {
+                "subj": "KE Southern LNG Deals",
+                "loc": "EB 3259",
+                "start": "2001-05-30 16:00:00",
+                "end": "2001-05-30 18:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 30 Oct 2001 07:01:14 -0800 (PST)",
+            "subject": "ERCOT Research Model scheduled by Rahul Seksaria",
+            "payload": "When: Wednesday, October 31, 2001 3:00 PM-4:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: EB1966\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "ERCOT Research Model",
+                "loc": "EB1966",
+                "start": "2001-10-31 15:00:00",
+                "end": "2001-10-31 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 29 Oct 2001 13:30:19 -0800 (PST)",
+            "subject": "ECS 03980 - ENW Employee Breakfast",
+            "payload": "Please join us for breakfast on Thursday, November 1 at 8:30 a.m. in Enron Center South 03980 Conference Room.  You can ask the receptionist on the 3rd floor of ECS for directions to the conference room.\nYou were randomly selected to participate in a discussion about recent events occurring at the company, see what management can do going forward and ways we can improve employee morale.\nWe look forward to seeing you there."
+        },
+        "meetings": [
+            {
+                "subj": "ENW Employee Breakfast",
+                "loc": "Enron Center South 03980 Conference Room",
+                "start": "2001-11-01 08:30:00",
+                "end": "2001-11-01 09:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 13 May 2002 23:11:50 -0700 (PDT)",
+            "subject": "Massive May Savings from FitRx.com through 5/26",
+            "payload": "Massive May Savings from FitRx.com Specials through May 26th\nor while supplies last !\nPlease click below to take advantage of these specials and many more!\nhttp://www.fitrx.com/fitrx/default.asp?ref_franchise_id=130\nNEWS:\n- Win over $200 worth of EAS products ! *\n  Every order in May that includes an EAS item will automatically\n  enter you in the drawing for an EAS Gym Bag filled with:\n    1 - EAS Backpack\n    1 - Body for Life Book\n    1 - Body for Life Journal\n    2 - Results Thermogenic Drinks\n    2 - EAS T-Shirts\n    3 - Magazines\n    3 - Videos\n    4 - Four-packs of New Myoplex Low Carb RTD Drinks\n    12 - Myoplex samples\n    12 - Myoplex Deluxe Chocolate Chocolate Chip flavor bars\n    * No purchase necessary, see www.fitrx.com for details\n- NEW Myoplex Low Carb Bar - Chocolate Dipped Strawberry available !\n- NEW EAS Ecdy Max now available\n- NEW Cytodyne Ephedrine-free Xenadrine EFX now available !\n- NEW Next Proteins Designer Whey with GlycerLEAN is here !\n- NEW Optimum Nutrition 100 gm Glutamine Powder now available !\n- FREE AST T-shirt with $50 AST purchase !\n- FREE Met-Rx CD with $50 Met-Rx purchase !\nSPECIALS - Check www.fitrx.com for a complete list of specials:\nAST - Creatine HSC - 4 LB - Any flavor\nRegular: $27.95      Sale: $25.95\nAST - Dymetadrine Extreme - 100 cap\nRegular: $17.95      Sale: $16.95\nAST - Micronized Creatine - 1000 gm\nRegular: $31.95      Sale: $29.95\nBetastatin - Tetracal Ephedra Free - 120 cap\nRegular: $21.95      Sale: $20.95\nBio-Test - T2 Pro Thermogenic Formula - 90 cap\nRegular: $26.95      Sale: $22.95\nChampion Nutrition - Pure Whey Protein Stack - 5 LB - Any flavor\nRegular: $27.95      Sale: $25.95\nClif Bars - Luna Bar - 15 bars - Any flavor\nRegular: $19.95      Sale: $16.95\nCytodyne - Cytoplex - 20 pack - Any flavor\nRegular: $35.95      Sale: $33.95\nCytodyne - Methoxy Pro - 2 LB - Any flavor\nRegular: $30.95      Sale: $28.95\nDorian Yates - Pro MR - 20 pack - Any flavor\nRegular: $37.95      Sale: $34.95\nEAS - Betalean - 120 cap\nRegular: $23.95      Sale: $18.95\nEAS - Betalean Twinpack - 2 x 120 cap\nRegular: $46.95      Sale: $34.95\nEAS - L-Glutamine Powder - 1000 gm\nRegular: $49.95      Sale: $44.95\nEAS - Methoxy Factor - 100 gel\nRegular: $38.95      Sale: $35.95\nEAS - Myoplex - 42 pack - Any flavor\nRegular: $59.95      Sale: $55.95\nEAS - Myoplex - 4 x 42 pack - Any flavor\nRegular: $227.95      Sale: $219.80\nEAS - Myoplex Deluxe - 36 pack - Chocolate or Variety flavor\nRegular: $61.95      Sale: $55.95\nEAS - Myoplex Deluxe Bar - 12 bars - Any flavor\nRegular: $22.95      Sale: $19.95\nEAS - Myoplex Lite - 20 pack - Cappuccino Ice\nRegular: $34.95      Sale: $32.95\nEAS - Myoplex Lite - 20 pack - Chocolate Lovers or Tropical Variety\nRegular: $32.95      Sale: $30.95\nEAS - Myoplex Lite - 42 pack - Variety pack\nRegular: $57.95      Sale: $52.95\nEAS - Myoplex Low Carb Bar - 12 bars - Any flavor\nRegular: $23.95      Sale: $21.95\nEAS - Myoplex Ready to Drink (Low carb) - 6 x 4 pack - Any flavor\nRegular: $57.95      Sale: $53.95\nEAS - Piranha Protein Snack Mix - 1 bag - Any flavor\nRegular: $1.45      Sale: $0.50\nEAS - Piranha Protein Power Chips - 1 bag - Any flavor\nRegular: $1.45      Sale: $0.50\nEAS - Results Thermogenic Drinks - 24 pack - Any flavor\nRegular: $39.95     Sale: $34.95\nMet-Rx - Food Bar - 12 bars - Variety Pack\nRegular: $20.95\n  Sale: $16.95\nMuscletech - Nitrotech - 4 LB - Any flavor\nRegular: $52.95      Sale: $50.95\nNutra-Sport - Cutting Gel - 4 oz\nRegular: $49.95       Sale: $46.95\nOptimum Nutrition - Complete Protein Diet Bar - 15 bars\nLemon Chiffon flavor\nRegular: $17.95       Sale: $9.95\nOptimum Nutrition - Complete Protein Diet Bar - 15 bars\nPeanut Butter, Toasted Coconut flavors\nRegular: $17.95       Sale: $14.95\nOptimum Nutrition - Pro Complex Twinpack - 4.4 LB x 2 - Any flavor\nRegular: $75.95       Sale: $71.95\nTwinlab - Ripped Fuel Extreme - 200 cap\nRegular: $31.95       Sale: $ 28.95\nTwinlab - Ripped Fuel Extreme - 120 cap\nRegular: $24.95       Sale: $ 22.95\nTo be removed from the FitRx.com specials email list, please click the\nlink below:\nhttp://www.fitrx.com/fitrx/remove_email.asp?email=13818"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 12 Dec 2000 09:11:00 -0800 (PST)",
+            "subject": "Weather Alert",
+            "payload": "The potential for freezing rain and hazardous road conditions may be present \nthis evening and early tomorrow morning particularly in the northern and \nwestern parts of the city. Please monitor local news and weather forecasts \nand use your judgement to insure a safe commute. \nThe Enron building will be open for business tomorrow, Wednesday, December \n13th. If there should be any change of building status, notice will be given \non the building hotline and accessible by calling 713-750-5142. "
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 12 Sep 2001 06:20:48 -0700 (PDT)",
+            "subject": "Fundamental Overview Presentation",
+            "payload": "Fundamental Overview Presentation\nFriday, September 21st\n1 - 3pm\nroom 32c2"
+        },
+        "meetings": [
+            {
+                "subj": "Fundamental Overview Presentation",
+                "loc": "room 32c2",
+                "start": "2001-09-21 13:00:00",
+                "end": "2001-09-21 15:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 30 Jun 2000 05:00:00 -0700 (PDT)",
+            "subject": "QF Write-up, Development Spreadsheet",
+            "payload": "Attached is the doc for the QF write-up, and the development spreadsheet \ncreated by FPL (combined with our assets). I have taken out the implied \nEBITDA section for now, whcih we can add it back in if we want to.\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 7 Dec 2000 08:05:00 -0800 (PST)",
+            "subject": "",
+            "payload": "anyone up for woody's tonight around 9:30?"
+        },
+        "meetings": [
+            {
+                "subj": "Woody's",
+                "loc": "",
+                "start": "2000-12-07 21:30:00",
+                "end": "2000-12-07 22:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 8 Mar 2001 05:40:00 -0800 (PST)",
+            "subject": "Enron's Reply Comments Re: Secondary Market for Spectrum",
+            "payload": "All,\nAttached please find a copy of our Reply Comments in response to the FCC's \nNPRM to create a secondary market for spectrum.  These comments will be filed \ntomorrow.  \nPlease let me know if anyone has any questions or concerns.  Thanks.\nRegards,\nLara\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 28 Aug 2001 09:54:51 -0700 (PDT)",
+            "subject": "Enterprise Wide Risk Data Flow Re:  London  - Steve Stock",
+            "payload": "\nWants to get a clearer sense of your thinking on this issue prior to his trip to London 9/10."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 22 Aug 2001 14:24:25 -0700 (PDT)",
+            "subject": "Meeting w/Heath Schiesser, re: Xcelerator.",
+            "payload": "SENT HUNTER SHIVELY AN EMAIL 8/14\nAt the request of Greg Whalley\nRE: to familiarize Hunter with what we are up to in Xcelerator and get his thoughts\nHunter @ 34772\nAssistant: Airam \"Rain\" Arteaga @ 31560\nVP, Mid-West Gas Trading"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 10 Sep 2001 06:25:59 -0700 (PDT)",
+            "subject": "Conf.call w/Linda Robertson, Lisa Yoho, Rick Shapiro, John Shelk &\n Lavo re.MTR and the Bingaman Bill",
+            "payload": "Per Lisa Yoho and Linda Robertson's request, I've scheduled a conference call for Tuesday, September 11 at 3:00 p.m. PDT to discuss MTR and the Bingaman Bill. \nThe toll free numbers are listed below. Please let me know if you will not be able to participate. \nDATE: Tuesday, September 11 \nTIME: 3:00 P.M. CST (9:00 P.M. London time) \nTOLL FREE: 1-800-998-2462 for Houston and Washington participants \n703-736-7230 for London participant \nPASS CODE: 5522210 \nGeriann Warner \nGlobal Government Affairs\nEB 4740C \n713.853.5036 - Phone \n713.853.7297- Fax"
+        },
+        "meetings": [
+            {
+                "subj": "MTR and the Bingaman Bill",
+                "loc": "",
+                "start": "2001-09-11 15:00:00",
+                "end": "2001-09-11 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 31 Jul 2001 08:58:01 -0700 (PDT)",
+            "subject": "In person interview Ken Williams - Req. # 109729 - Risk Management",
+            "payload": "Please disregard previous email with proposed times.  The schedule for this interview will be as follows:\nP. Love and O. Winfree\n9:00 - 9:30\nK. Keiser and D. Baumbach\n9:30 - 10:00\nA. Bike and E. McLaughlin\n10:00 - 10:30\nConference Room remains EB3663.  Irena has  reserved these times on your calendars.  Thanks!\n -----Original Appointment-----\nFrom: \nRichard, Jacqueline  \nSent:\nTuesday, July 31, 2001 12:15 PM\nTo:\nBaumbach, David\nSubject:\nIn person interview (candidate lives out of town) - Req. # 109729 - Risk Management\nWhen:\nMonday, August 06, 2001 10:00 AM-10:30 AM (GMT-06:00) Central Time (US & Canada).\nWhere:\nEB 3663\nInterviewers will include:\nErroll McLaughlin \n8:30 - 9:00\nPhillip Love\n9:00 - 9:30\nO'Neal Winfree\n9:30 - 10:00\nDave Baumbach\n10:00 - 10:30\nKam Keiser\n10:30 - 11:00\nResume will be included in final interview schedule.  Thanks!\nps - this candidate is meeting with a group directly following your meetings.  "
+        },
+        "meetings": [
+            {
+                "subj": "In person interview Ken Williams",
+                "loc": "EB3663",
+                "start": "2001-07-31 09:00:00",
+                "end": "2001-07-31 09:30:00"
+            },
+            {
+                "subj": "In person interview Ken Williams",
+                "loc": "EB3663",
+                "start": "2001-07-31 09:30:00",
+                "end": "2001-07-31 10:00:00"
+            },
+            {
+                "subj": "In person interview Ken Williams",
+                "loc": "EB3663",
+                "start": "2001-07-31 10:00:00",
+                "end": "2001-07-31 10:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 6 Jun 2001 11:08:58 -0700 (PDT)",
+            "subject": "Pre-PRC Briefing (Jun 11 04:00 PM PDT in EB2748) w/ Barry Pearce",
+            "payload": "Meeting to run through EBS Trading Support staff for cross calibration."
+        },
+        "meetings": [
+            {
+                "subj": "Pre-PRC Briefing",
+                "loc": "EB2748",
+                "start": "2001-06-11 16:00:00",
+                "end": "2001-06-11 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 26 Jun 2001 16:36:09 -0700 (PDT)",
+            "subject": "OPM & Monthly Operating Report",
+            "payload": "When: Wednesday, June 27, 2001 11:00 AM-11:30 AM (GMT-06:00) Central Time (US & \nCanada).\nWhere: EB3748\n*~*~*~*~*~*~*~*~*~*\nPlease contact me if you have any questions.\nThank You,\nAdrial Boals\nX58849"
+        },
+        "meetings": [
+            {
+                "subj": "OPM & Monthly Operating Report",
+                "loc": "EB3748",
+                "start": "2001-06-27 11:00:00",
+                "end": "2001-06-27 11:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 7 Aug 2001 07:09:51 -0700 (PDT)",
+            "subject": "KCS Insurance Wrap Meeting",
+            "payload": "Please plan to attend the following meeting:\nSUBJECT:\nKCS Insurance Wrap\nDATE:     \nTue., Aug. 7, 2001\nTIME:       \n1:00 - 2:00 p.m.\nLOCATION:\nEB-3259\nAny questions, contact Eric Boyt at Ext. 5-7754"
+        },
+        "meetings": [
+            {
+                "subj": "KCS Insurance Wrap",
+                "loc": "EB-3259",
+                "start": "2001-08-07 13:00:00",
+                "end": "2001-08-07 14:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Sun, 22 Oct 2000 23:40:00 -0700 (PDT)",
+            "subject": "Sithe/Independence On & Off Peak MW Turndown Transaction Agreements",
+            "payload": "Jason --\nAttached are the documents with the changes incorporated.  As we discussed on\nFriday, the plant maintenance will run into November.  Since we sold gas to \nthe plant\nat the maximum level through October 20th, a smaller resale volume or MW \nTurndown\nwill have to be used for the first week or so in November.  Also, I have \ntried to adjust\nthe formula so that you get the same answer as what your memo with the \nexamples\nindicate.  If there are a few more changes, please let me know.\nI will be back in the office on Tuesday.\nRuth\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 23 Oct 2001 07:12:34 -0700 (PDT)",
+            "subject": "Origination Staff Meeting",
+            "payload": "Please note,\nThe staff meeting scheduled for today will now take place at noon, in EB 3259 and not 4PM.  Please adjust your schedules.\nThank you,\nIrena Hogan\n(713) 853-6143"
+        },
+        "meetings": [
+            {
+                "subj": "Origination Staff Meeting",
+                "loc": "EB 3259",
+                "start": "2001-10-23 12:00:00",
+                "end": "2001-10-23 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 14 Jun 2000 01:57:00 -0700 (PDT)",
+            "subject": "Upward Feedback",
+            "payload": "Sally,\nBelow is the listing of my staff and their Extensions.\n David Maxwell  3-6983\n Susie Ayala  3-0524  On Vacation in Houston\n Tim Norton  3-6820\n Homer Lin  5-7642  On Vacation in Seattle\n Lynn Tippery  3-5333\n Joseph Koothrappaly 3-6819  IT\n Carol Marshall  3-4291  Commercial Liaison\nCall if you need anything more,\nTodd"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 9 Nov 2000 10:09:00 -0800 (PST)",
+            "subject": "Ameriflash Newsletter",
+            "payload": "BUSINESS HIGHLIGHTS\nTRANSACTION DEVELOPMENT\nTransaction Development, headed by Rodney Malcolm, works with Pulp & Paper, Lumber and Steel to structure and execute some of the more complex deals.  Members of the Transaction Development team have a strong track record of closing structured transactions involving both capital and commodity risks.  Sample deals would include working on the acquisition of Garden State Paper earlier this year, and structuring and pitching the first all requirements, index based, physical steel supply contract to one of the largest players in the steel servicing segment of the steel industry.\nThe ability to buy and sell physical product will be critical to creating a commodity product in these businesses.  Getting access to the physical product will require creating compelling financing structures, as well as potentially buying assets to get control of their production capability.  In all these situations, the Transaction Development team will be a key player in driving these opportunities to closure.\nPEP - REVIEWER FEEDBACK DEADLINE\nThe Year End 2000 Performance Review Process closes November 17. To access PEP, go to http://pep.corp.enron.com.  To avoid system delays, please log-on before the deadline.\nIf you have any problems accessing the system or have any questions regarding the Performance Management Process, please call the HR Helpdesk at x3.4040 option 4 or email pep.enquiries@enron.com.\n OPEN ENROLLMENT 2001\nThe final date for making your 2001 benefit elections or changes is November 15, 8:00 am CST to 5:00 pm CST.  Remember, that your current 2000 health benefit elections will rollover for 2001 if you do not make any changes.\nLog-on to www.enron.benefitsnow.com or call 1-800-425-5864.\nWELCOME\nNew Hires ENA/EIM/EGM\nENA =01) Tamara Carter/Gas Logistics, Albert Escamilla/Global Counterparty, Michael Girraratano/Gas Assets Operations, Cassandra Mayeux/Reporting, Planning Accounting, Christina Perez/Power Plant Acct., Eve Puckett/Info & Records Management, Tracey Wood/Gas Logistics\nEGM =01) David Hoog/GRM Risk Products, Judy/Currency Trading\nSAVE THE DATE\nENA/EIM/EGM-HOLIDAY PARTY\nEnron Field\nSaturday, December 9\n7:00 pm - Midnight\nNUGGETS & NOTES\n\"Bigger, faster\" - Dave Delainey/CEO-ENA\n\"Four bid at five. What do you want to do?\" John Arnold, Vice President-Financial/Nymex Trading\n\"We trade weather.\"  Gary Taylor, Manager - Weather Risk Management Group\n\"You trade WHAT?!\" anyone Gary speaks with.\nLEGAL STUFF\nThe information contained in this newsletter is confidential and proprietary to Enron Corp. and its subsidiaries.  It is intended for internal use only and should not be disclosed outside of Enron."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 8 May 2001 13:05:00 -0700 (PDT)",
+            "subject": "Mid-Year 2001 Performance Feedback",
+            "payload": "STEPENOVITCH, JOSEPH P,\n?\nYou have been selected to participate in the Mid Year 2001 Performance \nManagement process.  Your feedback plays an important role in the process, \nand your participation is critical to the success of Enron's Performance \nManagement goals.\n?\nTo complete a request for feedback, access PEP at http://pep.enron.com and \nselect Complete Feedback from the Main Menu.  You may begin providing \nfeedback immediately and are requested to have all feedback forms completed \nby Friday, May 25, 2001. \n?\nIf you have any questions regarding PEP or your responsibility in the \nprocess, please contact the PEP Help Desk at:\nHouston:  1.713.853.4777, Option 4 or email: perfmgmt@enron.com\nLondon:  44.207.783.4040, Option 4 or email: pep.enquiries@enron.com \n?\nThank you for your participation in this important process. \n?\nThe following is a CUMULATIVE list of employee feedback requests with a \nstatus of \"OPEN.\"  Once you have submitted or declined an employee's request \nfor feedback, their name will no longer appear on this list.  NOTE: YOU WILL \nRECEIVE THIS MESSAGE EACH TIME YOU ARE SELECTED AS A REVIEWER. \n?\nEmployee Name:\nLOZANO, MARIA"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 26 Oct 2001 12:46:29 -0700 (PDT)",
+            "subject": "ENW CEO Breakfast",
+            "payload": "Please join me for breakfast on Monday, October 29 at 8:30 a.m. in Enron Center South 03980 Conference Room.  You can ask the receptionist on the 3rd floor for directions to the conference room.\nThis informal get-together is being held to discuss events occurring at the company, see what management can do going forward and ways we can improve employee morale.\nI look forward to seeing you there.\nGreg Piper"
+        },
+        "meetings": [
+            {
+                "subj": "ENW CEO Breakfast",
+                "loc": "Enron Center South 03980 Conference Room",
+                "start": "2001-10-29 08:30:00",
+                "end": "2001-10-29 09:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 5 Nov 2001 11:24:29 -0800 (PST)",
+            "subject": "Air Products Interruptible Proposal",
+            "payload": "When: Wednesday, November 07, 2001 9:00 AM-10:00 AM (GMT-06:00) Central Time (US & Canada).\nWhere: EB - 3143B\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "Air Products Interruptible Proposal",
+                "loc": "EB - 3143B",
+                "start": "2001-11-07 09:00:00",
+                "end": "2001-11-07 10:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 17 Oct 2001 08:01:58 -0700 (PDT)",
+            "subject": "Origination Staff  Meeting EB 3270",
+            "payload": "PLEASE NOTE,\nTHE STAFF MEETING WILL NOW TAKE PLACE TODAY @ 12:30 PM, FOR 30 MINUTES, IN EB 3270.\nTHANK YOU"
+        },
+        "meetings": [
+            {
+                "subj": "Origination Staff Meeting",
+                "loc": "EB 3270",
+                "start": "2001-10-17 12:30:00",
+                "end": "2001-10-17 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 6 Nov 2001 13:03:27 -0800 (PST)",
+            "subject": "Lands & Environment",
+            "payload": "The Lands and Environment Subcommittee of the LL&R Committee will meet Friday, November 16, 9:30 a.m. at IPAMS.  The subcommittee will be discussing the issues raised at the first meeting and assigning the issues to action groups for implementation.  Please RSVP to ipams@ipams.org"
+        },
+        "meetings": [
+            {
+                "subj": "Lands & Environment",
+                "loc": "IPAMS",
+                "start": "2001-11-16 09:30:00",
+                "end": "2001-11-16 10:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 24 Sep 2001 11:49:45 -0700 (PDT)",
+            "subject": "Consultation for wisdom teeth",
+            "payload": "Dr Eklund\n713-439-0924\n24 Greenway Plaza, Suite 1708\nthe black glass Compass Building on corner of Weslyan and 59"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 7 May 2001 10:58:00 -0700 (PDT)",
+            "subject": "JS - Louisville",
+            "payload": "CO 4172  Departs IAH at 3:35PM\nArrives Louisville at 7:00PM"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 5 Feb 2003 13:28:21 -0800 (PST)",
+            "subject": "PLEASE ATTEND - review/ agreement of test data for mock test on\n Thursday 02/06",
+            "payload": "Please attend a very important meeting to discuss/ review the mock test tomorrow, with regards to data setup, and user tests for the afternoon.  \nAgenda:\n* We need to ensure ETX can create a data subset based on what is setup in global counterparty & contracts.\n- counterparties - U.S. and Canada\n- pipelines - U.S. and Canada\n- contracts\n* Test schedule for Thursday\n* Any other issues.\nLocation:  ECS 05990.\nPlease forward to others that need to be in attendance.\nSee attached for proposed list..\n \nThanks,\nRegan Smith\nTesting Integration coordinator of UBS downstream systems"
+        },
+        "meetings": [
+            {
+                "subj": "agreement of test data for mock test",
+                "loc": "ECS 05990",
+                "start": "2003-02-06 12:00:00",
+                "end": "2003-02-06 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 28 Aug 2001 11:39:04 -0700 (PDT)",
+            "subject": "Enron Direct USA - Sales Verification/Deal Capture/Credit/Customer\n Satisfacation - JDietrich, DDelainey, DLeff, ADayao, BBradford, MHarris,\n SGahn, BTilney, WDetter, RBertasi, EHughes, MFrank",
+            "payload": "Meeting confirmed Tues. 8/28/01 @ 4:28pm"
+        },
+        "meetings": [
+            {
+                "subj": "Enron Direct USA",
+                "loc": "",
+                "start": "2001-08-28 16:28:00",
+                "end": "2001-08-28 17:28:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 2 Oct 2001 09:37:34 -0700 (PDT)",
+            "subject": "ERCOT Transmission Costs",
+            "payload": "When: Monday, October 08, 2001 2:00 PM-3:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: EB3143C\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "ERCOT Transmission Costs",
+                "loc": "EB3143C",
+                "start": "2001-10-08 14:00:00",
+                "end": "2001-10-08 15:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 25 Jun 2001 14:35:38 -0700 (PDT)",
+            "subject": "Holiday Party Focus Group",
+            "payload": "The Holiday Party is coming....\nPlanning is underway...\nYou have been selected to participate in a focus group.  You will be responsible for providing your opinions and ideas about the Holiday Party occurring on December 8th.  "
+        },
+        "meetings": [
+            {
+                "subj": "Holiday Party",
+                "loc": "",
+                "start": "2001-12-08 12:00:00",
+                "end": "2001-12-08 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 22 Feb 2000 00:30:00 -0800 (PST)",
+            "subject": "HGPL and KGPL - 3 Rivers Gas",
+            "payload": "Based on the conversation we had  at the meeting last Thursday, I am \nimplementing the following changes to Humble Gas Pipeline and King Ranch Gas \nPlant.  If you disagree or feel you had a different understanding than the \nitems below, please be sure to call me asap.\n1. Input HPLC purchase from HPLR Liquids at meter 8793 (HPL/HGPL).  Remove \nthe 3 Rivers gas from the Interconnect ticket and input on\n the Purchase Deal.\n2. Input HPLC sale to HPLR Liquids at meters 9643 (KGPL/HPL) and 12 \n(KGPL/HGPL).  Remove 3 rivers volumes from the interconnect tickets \n at these meters and input on the sales Deals appropriately.\n3. Change swing parameters for the King Ranch contracts to swing on Cage \nRanch before swinging on 3 Rivers Gas.  This will hopefully allow \n the sale for 3 Rivers gas to remain at one meter as much as possible.\nI will hopefully have all of these changes made by the end of the day, and \nhave all contracts repathed.  It is my understanding that we are implementing \nthese changes effective Feb. 1st.\nStella,  This may or may not effect repathing of the HPLC gas at meter 9643, \nbased on the swing parameters that you have been using.\nThank you."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 15 Feb 2018 12:41:23 +0200",
+            "subject": "Grammarly Week - Successful registration 15/02",
+            "payload": "We are glad to confirm your registration for DevOps @ Grammarly: Scaling\n100x <https://www.facebook.com/events/159084304875175/>!\nWhen: Thursday, February 15, 7 PM\nLanguage: Russian\nDuration: 1 hour, followed by networking opportunities and snacks and drinks\nJoin us for our housewarming celebration today, February 15 at Gulliver Business Center, Tower B, floor 14.\nPlease, remember to bring your ID (a passport or a driver's license).\nYou'll need it to enter the business center. And don't forget to pick up a\nbracelet pass at the reception desk on the first floor!\n*If your plans change, we would appreciate it if you let us know. We will\ngive your seat to someone on the waiting list.*\nContact us:\nCall: 093 014 44 81\nEmail: viktoria.kolomiets@grammarly.com\nFollow us:\nFacebook <https://www.facebook.com/GrammarlyKyiv/>\nInstagram <https://www.instagram.com/grammarly_kyiv/>\nSee you soon at Grammarly Week!\n*Viktoria, *\n*Grammarly*\n"
+        },
+        "meetings": [
+            {
+                "subj": "DevOps @ Grammarly: Scaling",
+                "loc": "Gulliver Business Center, Tower B, floor 14",
+                "start": "2018-02-15 19:00:00",
+                "end": "2018-02-15 20:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 31 Jan 2002 08:34:25 -0800 (PST)",
+            "subject": "2002 UBS Plan",
+            "payload": "I will be taking over the accounting and reporting for the Gas Teams in UBS.  This meeting is to introduce myself and revise the 2002 plan.  The original UBS plan was done quickly, and now we have an opportunity to revise the plan.\nThanks\nTrey Hardy"
+        },
+        "meetings": []
+    }
+]

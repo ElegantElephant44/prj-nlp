@@ -1,0 +1,617 @@
+[
+    {
+        "email": {
+            "date": "Tue, 12 Jun 2001 09:11:40 -0700 (PDT)",
+            "subject": "Phone Screen Interview - Charles E. Hunter III",
+            "payload": "Phone Screen Interview - Wednesday, June 13, 2001 @ 10:00am PDT."
+        },
+        "meetings": [
+            {
+                "subj": "Phone Screen Interview - Charles E. Hunter III",
+                "loc": "",
+                "start": "2001-06-13 10:00:00",
+                "end": "2001-06-13 11:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 1 Oct 2001 13:22:04 -0700 (PDT)",
+            "subject": "Driver to collect you @ 3:20 p.m. - Carey Limousine",
+            "payload": "Driver:  Mohammad Bhatti 703.926.5666"
+        },
+        "meetings": [
+            {
+                "subj": "Driver to collect you",
+                "loc": "",
+                "start": "2001-10-01 15:20:00",
+                "end": "2001-10-01 16:20:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 4 Apr 2002 13:21:59 -0800 (PST)",
+            "subject": "Happy Hour",
+            "payload": "Jersey Dan will be in town April 18th so we are going to party it up!  We are meeting for happy hour at Little Woodrow's in Midtown so mark your calendars!\nThursday April 18TH\nLITTLE WOODROW'S\n@ MIDTOWN\n4:00 ISH\nPLEASE FORWARD THIS TO ANYONE I MAY HAVE MISSED!\n"
+        },
+        "meetings": [
+            {
+                "subj": "Happy Hour",
+                "loc": "Little Woodrow's in Midtown",
+                "start": "2002-04-18 16:00:00",
+                "end": "2002-04-18 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 8 Oct 2001 09:19:23 -0700 (PDT)",
+            "subject": "SOLUTIA meeting",
+            "payload": "When: Tuesday, October 09, 2001 1:00 PM-2:00 PM (GMT-06:00) Central Time (US & Canada).\nWhere: 3127\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "SOLUTIA meeting",
+                "loc": "3127",
+                "start": "2001-10-09 13:00:00",
+                "end": "2001-10-09 14:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 16 Oct 2001 08:41:37 -0700 (PDT)",
+            "subject": "CANCELED FYI - (time tentative) - ECN 50M Dining - North America\n Budget Mtg. w/K.Lay, G.Whalley, M.Frevert",
+            "payload": "\ne-mail sent on 10/22/01 by Sharron\ne-mail sent 10/31/01"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 27 Sep 2001 07:22:42 -0700 (PDT)",
+            "subject": "EDFI Meeting",
+            "payload": "Please plan to attend the following meeting with Eric Moon:\nSubject:\nEDFI \nDate:\nThursday, September 27, 2001\nTime:\n3:00 - 3:30\nLocation:\nEB 32C2"
+        },
+        "meetings": [
+            {
+                "subj": "EDFI",
+                "loc": "EB 32C2",
+                "start": "2001-09-27 15:00:00",
+                "end": "2001-09-27 15:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 24 Aug 2001 13:16:08 -0700 (PDT)",
+            "subject": "EES / EWS / EPMI Meeting - Midwest Retail Load -  Physical Delivery\n Issues",
+            "payload": "The focus of this meeting is to identify key issues we face in being able to physically delivery power to retail load in the areas listed below--what does EPMI need to do to facilitate this?  Have we completed the necessary steps with the Utilities?  Licenses?  What needs to be done to get a transmission agreement in place for designation of a TSA?\nThese existing load figures are based on all customers, actual economics based on utility standard offers will dictate what percentage is economically viable to take physical.  The initial need for CG&E will be getting the transmission agreements in place to be able to designate a TSA (transmission scheduling agent).  \nUtility\nState\nWholesale Market\nPhysical Start Date\nNew Load\nExisting Load\nCG&E\nOH\nECAR - MISO\nDec 2001\nUp to 25 MW Peak\n5 MW\nIllinois Power\nIL\nMAIN - ARTO\nJan 2002\nNone\n75 MW Peak\nComEd\nIL\nMAIN - ARTO\nMar 2002\nUp to 25 MW Peak\n200 MW Peak (earliest Jun 2002)\nColumbus Southern (AEP)\nOH\nMAIN - ARTO\nApr 2002\nUp to 25 MW Peak\nMinimal"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, Feb 8, 2016 at 6:09 PM",
+            "subject": "Message to attendees of Ruby Meditation 6",
+            "payload": "Find events My Tickets  \n  \n---|---  \n|  |  \n---  \n|\nHi, everyone!\nFive days left till Ruby Meditation 6.\nWe have some important news for you:\n**The location has been changed to Lva Tolstoho St, 57, Business Center\n101Tower, 7 th floor.**\nOur representatives will meet you at the ground floor, near the Front Desk.\n(you may need a passport at the entrance to the business center, so, please,\nbring it just in case).\n**_Dear participants and speakers, please, choose a menu type for your\nlunch:_**\n_http://goo.gl/forms/86uEAHUpGR_\n**We have a bonus for our participants!**\nFor the first four participants who will write a report about the Ruby\nMeditation 6 in social networks and provide us the link, we have free tickets\nto Ruby Meditation 7.\nHurry up to enter the lucky four!\n**Ruby Meditation 7  \n  \n  \n**\nCome to our regular Ruby community session. Become a participant of our Ruby\nMeditation 7 meeting on March 19, Str. Smolenskaya, 31-33, 2nd floor (Business\nCenter Incom, metro station Shuliavska). Get involved in Ruby community life\nand you will definitely obtain new useful knowledge, interesting insights, an\nopportunity to meet old friends and get acquainted with new people, who will\ngladly share their experience!\nIf you feel like sharing your best practices and positive experience, become\none of our speakers by mailing your talk proposition to\nrubymeditation@gmail.com.\nWe do appreciate a willingness to learn, thus, students receive 50% discount\nby promo-code \u2018student\u2019.\nSponsors and info-partners are welcome to contact us via\nrubymeditation@gmail.com.\nWe are preparing a new exciting occasion for you! As soon, as schedule is\nready, information will be updated.\n##  Ruby Meditation 6\n|  |  |\nSaturday, February 13, 2016 from 11:00 AM to 5:00 PM (EET)  \n  \n---|---  \n|  Lva Tolstoho St, \n57 Lva Tolstoho Street  \nKyiv  \nUkraine  \n|\nOrganized by Ruby Meditation Team  \n  \n---  \n|  |  |  Download Tickets  \n---  \nMobile Tickets  \n---  \nContact the Organizer  \n---  \n|  \n---  \n|  | About  \n---  \n| Help  \n---  \n| My Account  \n---  \n| Contact Us  \n---  \n| Privacy  \n---  \n| Terms  \n---  \n| Blog  \n---  \n|  \n---  \n|  \n---  \n"
+        },
+        "meetings": [
+            {
+                "subj": "Ruby Meditation 6",
+                "loc": "Lva Tolstoho St, 57, Business Center 101Tower, 7 th floor.",
+                "start": "2016-02-13 11:00:00",
+                "end": "2016-02-13 17:00:00"
+            },
+            {
+                "subj": "Ruby Meditation 7",
+                "loc": "Str. Smolenskaya, 31-33, 2nd floor (Business Center Incom, metro station Shuliavska)",
+                "start": "2016-03-19 12:00:00",
+                "end": "2016-03-19 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 21 Jun 2001 08:19:17 -0700 (PDT)",
+            "subject": "PRC MEETING",
+            "payload": "Date: \nMonday, July 9\nTime: \n8:00 AM\nPlace: \nSt. Regis Hotel Grand Ballroom\n    \n1919 Briar Oaks Lane\n(713) 840 7600"
+        },
+        "meetings": [
+            {
+                "subj": "PRC MEETING",
+                "loc": "St. Regis Hotel Grand Ballroom",
+                "start": "2001-07-09 08:00:00",
+                "end": "2001-07-09 09:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 24 Oct 2001 15:09:22 -0700 (PDT)",
+            "subject": "Updated: Detailed review of EES Vol. Mngt and Settlements - EES/WHS\n Integration Team - Room Change",
+            "payload": "Note: Room Change\nMonday, 10/29\nSubject: WHS/EES - Settlements and Vol. Mngt Detail\nObjective:  Document detailed processes in Settlements and Vol. Mngt.\nRoom:  TBD,  3-5 CST\nAttendees:  Murray O'Neil, Thresa Allen, Kristin Albrecht"
+        },
+        "meetings": [
+            {
+                "subj": "WHS/EES - Settlements and Vol. Mngt Detail",
+                "loc": "TBD, 3-5 CST",
+                "start": "2001-10-29 12:00:00",
+                "end": "2001-10-29 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 30 Jan 2002 13:12:52 -0800 (PST)",
+            "subject": "Mtg. w/Lisa Feld w/UBS & Bill Bradford RE: Trader Training of\n Credit Policies in your office",
+            "payload": "The meeting referenced above has been scheduled as follows:\nDate:\nFriday, Feb 1st\nTime:\n9:00 a.m. - 10:00 a.m.\nLocation:\nECS 06 748\nAttendees:\nLouise Kitchen\nBill Bradford\nLisa Feld - UBS\nThanks,\nMercy\n(713) 853-5082"
+        },
+        "meetings": [
+            {
+                "subj": "Trader Training of Credit Policies in your office",
+                "loc": "ECS 06 748",
+                "start": "2002-02-01 09:00:00",
+                "end": "2002-02-01 10:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 14 Nov 2001 15:03:59 -0800 (PST)",
+            "subject": "Frontera Pricing",
+            "payload": "Not necessarily in one room for the duration - but let's meet and stay on topic until we get it done.\nDave"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 7 May 2001 10:58:19 -0700 (PDT)",
+            "subject": "JS - Louisville",
+            "payload": "CO 1617 Departs Louisville at 3:10PM\nArrive IAH at 4:22PM"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Tue, 16 Oct 2001 13:30:01 -0700 (PDT)",
+            "subject": "Fundamentals",
+            "payload": "This is confirmation of the following meeting that is scheduled as listed  below:\nDate/Time:  Friday, November 2, 2001 @ 11:00 am (CST)\nLocation:  EB50M03\nTopic:\n   Fundamentals\nAttendees:  (John Lavorato)  Ken Lay, Greg Whalley, Kevin Presto, Lloyd Will, Chris Gaskill, John Arnold, Hunter Shively\nTeleconference w/Tim Belden, Tim Heizerader\nA teleconference bridge has been established for those persons located in the Portland office:  Dial-in# 1-877-214-0402 (Passcode: 944602)"
+        },
+        "meetings": [
+            {
+                "subj": "Fundamentals",
+                "loc": "EB50M03",
+                "start": "2001-11-02 11:00:00",
+                "end": "2001-11-02 12:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 14 Mar 2018 10:47:09 +0200",
+            "subject": "Grammarly AI-NLP Club #4 - Successful registration",
+            "payload": "Good morning! We are glad to confirm your registration for Understanding and Assessing Language with Neural Network Models\n<https://www.facebook.com/events/173479380101668/>!\nWhen: Tuesday, March 20, 7 PM\nLanguage: English\nDuration: 1 hour, followed by networking opportunities and snacks\nJoin us for our fourth Grammarly AI-NLP Club on Tuesday, March 20 at\nGulliver Business Center, Tower B, floor 14.\nPlease, remember to bring your ID (a passport or a driver's license).\nYou'll need it to enter the business center. And don't forget to pick up a\nbracelet pass at the reception desk on the first floor!\n*If your plans change, we would appreciate it if you let us know. We will\ngive your seat to someone on the waiting list.*\nContact us:\nCall: 063 441 12 58\nEmail: viktoria.kolomiets@grammarly.com\nFollow us:\nFacebook <https://www.facebook.com/GrammarlyKyiv/>\nInstagram <https://www.instagram.com/grammarly_kyiv/>\nSee you soon!\n*Viktoria, *\n*Grammarly*\n"
+        },
+        "meetings": [
+            {
+                "subj": "Understanding and Assessing Language with Neural Network Models",
+                "loc": "Gulliver Business Center, Tower B, floor 14",
+                "start": "2018-03-20 19:00:00",
+                "end": "2018-03-20 20:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 7 May 2001 14:56:33 -0700 (PDT)",
+            "subject": "CANCELED - EB 3321  Wholesale Deal Mtg w/ M.Patrick, W.Colwell,\n B.Price, K.Roper, J.Somers, K.Castleman, R.Ondreko, C.Sherman,\n A.Quaintance, S.Douglas, M.Cilia, B.Herod, B.Hall  (Michelle x57681)",
+            "payload": "\ne-mail sent 11/9/01"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 7 Feb 2002 14:04:42 -0800 (PST)",
+            "subject": "Cooking and Entertaining: Recipe for Romance",
+            "payload": "Cooking on HomeAdvisor  =09=09=09=09February 7, 2002=09\nHot Offers Easy recipes your whole family will love!   Fast auto rate quotes   Time to refinance?   [IMAGE] Find It Fast Articles and Tools Cooking and entertaining , Decorating , Gardening , Home valuation , Homes for sale , Loans , Moving , New home plans , Remodeling and repair , Selling    Services Apartments , Contractor , Credit center , Furniture rental , Classmate search , Insurance , Real estate agent , Storage    Shopping Electronics , Home communications , Home office , More shopping    Time to refinance? Click here!   =09[IMAGE]=09 Recipes for Romance  [IMAGE]  You know what they say: the way to someone's heart is through the stomach. Try these ideas for romantic entertaining, or visit HomeAdvisor's Cooking and Entertaining section  to discover more.     Food Expert Emeril Lagasse  Emeril's food for lovers A meal to tempt the senses     Start with a nice bottle  Wine selection guide Set an elegant table  A lovely table for two Finish with a delectable dessert  Fresh fruit tart Don't forget the cappuccino!  Essential espresso recipes Perfect breakfast in bed   Make someone feel special all day  Also on HomeAdvisor and MSN Make your own Valentine's Day cards  Food, and fun, for the family  Find a great agent, matched to your needs =09[IMAGE]=09Partner Highlights Smart Solutions Build your own home network  Browse the design gallery   Save cash on truck rentals  Find high school friends  Build your dream home  [IMAGE] Visit our insurance center   [IMAGE] Need a contractor? Click here!  =09\n[IMAGE] =09\n[IMAGE]=09UNSUBSCRIBE =09MORE NEWSLETTERS =09FEEDBACK =09HELP =09[IMAGE]=09\n=09=09=09=09=09To unsubscribe, reply to this email with the word \"UNSUBSCRIBE\" in the subject line.=09\n[IMAGE]=09\n  =09 go to MSN Home  More Useful Everyday MSN Home  | My MSN  | Hotmail  | Search  | Shopping  | Money  | People & Chat  =09\n=09?2001 Microsoft Corporation. All rights reserved. Terms of Use   Advertise   TRUSTe Approved Privacy Statement   GetNetWise =09\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, Nov 9, 2017 at 11:55 PM",
+            "subject": "Invitation: Come talk about Rust at the Venture Cafe",
+            "payload": "New Meetup\nCome talk about Rust at the Venture Cafe\nBoston Rust\nAdded by Niko Matsakis\nWednesday, December 6, 2017  \n6:30 PM\nCIC Cambridge  \n1 Broadway, Venture Cafe, 5th floor  \nCambridge, MA\nAre you going?\n|\n__Yes __\n|\n__No __  \n  \n---|---  \n  \nCome and hear some interesting talk(s) about Rust, enjoy some food (thanks\nMozilla!), and enjoy the company of fellow Rustaceans. This week, Andrew\nGallant (aka, burntsushi) will give a talk on ripgrep, his awesome grep\nreplacement. **If you are int...  \nLearn more\n  \nNever miss a last-minute change. Get the app.\n|\nYou're getting this message because your Meetup account is connected to this\nemail address.\nUnsubscribe from similar emails from this Meetup group. Manage your settings\nfor all types of email updates.\nVisit your account page to change your contact details, privacy settings, and\nother settings.\nMeetup Inc., POB 4668 #37895 New York NY USA 10163"
+        },
+        "meetings": [
+            {
+                "subj": "Come talk about Rust at the Venture Cafe",
+                "loc": "CIC Cambridge 1 Broadway, Venture Cafe, 5th floor Cambridge, MA",
+                "start": "2017-12-06 18:30:00",
+                "end": "2017-12-06 19:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 24 Aug 2001 13:49:39 -0700 (PDT)",
+            "subject": "LSU Team Kick off Meeting",
+            "payload": "Greetings All!!!\nAttached is a complete listing of all the confirmed event dates and the number of participants needed for each event.   \nPlease let me know as soon as possible which recruiting event you desire to participate in as we are attempting to finalize the recruiting plans. \nThe LSU Team Kick off meeting will be held Thursday, August 30th from \n3:00 pm - 5:00 pm.  Brenda Herod as graciously agreed to serve as the LSU Team Lead.  \nCome learn how you can add value!!!\nMarble Slab will cater the event. \n \nRegards, \nValarie Barnes \nAssociate & Analyst Program \nx53533"
+        },
+        "meetings": [
+            {
+                "subj": "LSU Team Kick off Meeting",
+                "loc": "",
+                "start": "2001-08-30 15:00:00",
+                "end": "2001-08-30 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 14 Jan 2002 06:20:28 -0800 (PST)",
+            "subject": "Mom's Night Out",
+            "payload": "Meeting at clubhouse at 6:45"
+        },
+        "meetings": [
+            {
+                "subj": "Mom's Night Out",
+                "loc": "",
+                "start": "2002-01-14 18:45:00",
+                "end": "2002-01-14 19:45:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 2 Oct 2001 13:39:52 -0700 (PDT)",
+            "subject": "ERCOT Market",
+            "payload": "When: Wednesday, October 03, 2001 9:00 AM-9:30 AM (GMT-06:00) Central Time (US & Canada).\nWhere: EB 3805\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "ERCOT Market",
+                "loc": "EB 3805",
+                "start": "2001-10-03 09:00:00",
+                "end": "2001-10-03 09:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 12 Nov 2001 06:34:47 -0800 (PST)",
+            "subject": "Updated: Staff Meeting",
+            "payload": "There will be a staff meeting for the Central Origination Team today @ 10:30 AM in EB 3259.  Please accept this invitation, as it will automatically populate onto your schedule.\nThank you,\nIrena"
+        },
+        "meetings": [
+            {
+                "subj": "Staff meeting for the Central Origination Team",
+                "loc": "EB 3259",
+                "start": "2001-11-12 10:30:00",
+                "end": "2001-11-12 11:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 1 Feb 2002 08:28:59 -0800 (PST)",
+            "subject": "11:00 Meeting, per Hunter Shively",
+            "payload": "Hunter is calling an 11:00 AM, this morning,  meeting with the desk heads.\nThank you,\nIrena Hogan\nSr. Administrative Assistant\n(713) 853-6143"
+        },
+        "meetings": [
+            {
+                "subj": "PRC MEETING",
+                "loc": "",
+                "start": "2002-02-01 11:00:00",
+                "end": "2002-02-01 12:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Thu, 7 Jun 2001 09:15:56 -0700 (PDT)",
+            "subject": "Updated: Discuss EIM/EGM Settlements Requirements",
+            "payload": "Please plan to attend the scheduled meeting to discuss the following:\nSubject:    Review EIM/EGM Settlements Requirements\nDate:\n        Today, June 7\nTime:\n         4:00   --   5:00pm\nRoom:       EB2556  \nAGENDA\nI.    Introduction \n      \nII.   Review differences between EIM and EGM Settlements Requirements\n      \nIII.  How to accommodate both sets of requirements in one application?\n     \nIV.  Action items and to-do's\nPlease plan to attend accordingly.\nThanks\n      \n"
+        },
+        "meetings": [
+            {
+                "subj": "Discuss EIM/EGM Settlements Requirements",
+                "loc": "EB2556",
+                "start": "2001-06-07 16:00:00",
+                "end": "2001-06-07 17:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 14 Aug 2001 12:03:51 -0700 (PDT)",
+            "subject": "Mid-year Review",
+            "payload": "To: Kristen Clause\nOn behalf of Darron Giron and Anne Bike,\nPlease accept this invite to go over your performance review tomorrow morning @ 10:30 AM, in EB 3269.\nThank you."
+        },
+        "meetings": [
+            {
+                "subj": "Mid-year Review",
+                "loc": "EB 3269",
+                "start": "2001-08-15 10:30:00",
+                "end": "2001-08-15 11:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, May 15, 2018 at 11:49 AM",
+            "subject": "Niko speaking at Papers We Love on Thursday",
+            "payload": "Hi all,\nI just wanted to let you know that I will be speaking at the Papers We Love,\nCambridge meetup this Thursday:\nhttps://www.meetup.com/Papers-We-Love-Boston-Cambridge/events/250646818/\nI'm not going to be talking about Rust directly, but rather about Prolog \u2014\nmore specifically, one of the key papers that is part of the Chalk project,\nwhich aims to overhaul how the Rust trait solver is implemented. I am aiming\nfor an accessible talk, even if you know nothing about Prolog.\nSorry for the mass e-mail, but I thought it might be of interest to this\ngroup. Also sorry for the late notice, but I've been traveling. =)\nHope to see some of you there,\nNiko"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, Jan 31, 2018 at 6:15 AM",
+            "subject": "Boston Node #7: Lambda Step Functions, Dependency Graphing, and React Storybook",
+            "payload": "On Wednesday, February 7th at 6:00pm, Boston Node will be holding our first\nmeetup of 2018 and will return to WeWork in Back Bay. Join us for a great\nevening of tech discussions and networking opportunities!  \n  \nEntry is free and we will include drinks and food thanks to our great\nsponsors.  \nThis months's meetup brings us a variety of talks from a wide range of amazing\nspeakers in the Node and JS communities. Matt Williams, Dev Evangelist at\nDatadog, will go through Step Functions via AWS Lambda. Jason Carter, software\ndev at Simplisafe, will walk us through visualizing and organizing our\ndependencies. And Andric LibreSinn, a dev at Liberty Mutual, will walk us\nthrough React and Storybook with Markdown.  \n  \nWe're looking forward to seeing you all there. Looking forward to this month's\nmeetup!  \n  \n\\- Brian @codemouse (https://twitter.com/codemouse)  \n\\- Dan @danielsfields (https://twitter.com/danielsfields)  \n\\- Sam @hammmy_sammmy (https://twitter.com/hammmy_sammmy)  \n\\- Jesse @foop37 (https://twitter.com/foop37)  \n  \np.s. - Please update your contact information for the Boston Node meetup group\nto help with attendance and name tags when you get a chance.  \n  \n\u2014\u2014  \n  \nEvent opens at 6:00pm, talks to start around 6:50pm  \n\u2014\u2014  \n  \nIntro to Meetup - Welcome  \n\u2014\u2014  \n  \nTalk #1: Orchestrating Lambda with Step Functions with Matt Williams\n(@Technovangelist (https://twitter.com/Technovangelist))  \n  \nOK, you have built your first Lambda function. It may even be useful (and not\njust a thumbnail generator). But an application is more than a single\nfunction; you need a lot of them. How do you get your functions working\ntogether? In this short introduction I\u2019ll get you started with Step Functions\nand show you how easy it is to use them to orchestrate AWS Lambda.  \n  \nMatt Williams is one of the Evangelists at Datadog and an organizer of DevOps\nDays Boston. He is passionate about the power of monitoring and metrics to\nmake large-scale systems stable and manageable. So he tours the country\nspeaking and writing about monitoring with Datadog. When he's not on the road,\nhe's coding.  \n\u2014\u2014  \n  \nQuick break ~7:30pm - 7:45pm  \n\u2014\u2014  \n  \nTalk #2: Dependency Graphing: Visualize to organize with Jason Carter\n(@WakeStudio (https://twitter.com/WakeStudio))  \n  \nJason is a software developer at SimpliSafe working on the recently launched\nSimpliSafe v3 Home Security System. Works on the backend web services in\nNodeJS. Previously worked at Layer3 TV which was recently acquired by TMobile.  \n\u2014\u2014  \n  \nTalk #3: React + Storybook + Markdown. SAY WHAT?!?!?! with Andric LibreSinn (\nhttps://github.com/mrpotatoes )  \n  \nStorybook is great for creating React based components but there are some\ndrawbacks. In this discussion we will present a small library that allows us\nto efficiently build a storybook entry for a component and keep it\u2019s\ndocumentation up to date at the same time!  \n  \nAndric is a software engineer working at Liberty Mutual. He rocks the backend\nand the front end (but prefers a mix of both) and does so in JavaScript (which\nis his new jam and I doesn\u2019t think he will ever leave it). Previously he\u2019s\nworked for NPR, Christian Science and WEEI.\n  \n  \n  \n  \n\\--  \nPlease Note: If you hit \" **REPLY** \", your message will be sent to\n**everyone** on this mailing list (boston-node-list@meetup.com)"
+        },
+        "meetings": [
+            {
+                "subj": "Lambda Step Functions, Dependency Graphing, and React Storybook",
+                "loc": "Boston Node",
+                "start": "2018-02-07 18:00:00",
+                "end": "2018-02-07 19:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 29 Oct 2001 07:36:13 -0800 (PST)",
+            "subject": "OATI",
+            "payload": "AGENDA:\n9:00A  to 11:00A\nKevin Burns will be here from OATI to provide specifications and describe in more detail the functionality of Web Trader.  \n11:30 to 2:00 PM \nOur goal is to have representatives from the 24-Hour Group and the IT Group bring specific questions for Kevin.   \nLet's determine if WebTrader can be flexible enough to replace the P&L (Delphi) application, interact with Enpower, and provide a good detailed database for historical information.  Most importantly, is this application fast and efficient enough to add value to the 24-hour group.\nCall me with any questions or to discuss.  853-0421\nThanks,\nCorry"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 25 Jan 2002 08:18:02 -0800 (PST)",
+            "subject": "Trading Application",
+            "payload": "We will meet to discuss a system for the Power Traders to provide real-time pricing, curve shift, positions, etc. as discussed last year.\nThanks,\nCorry Bentley\n3-0421"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 9 Feb 2018 12:54:29 +0200",
+            "subject": "Grammarly Week - Successful registration 14/02",
+            "payload": "We are glad to confirm your registration for Virtual Machine for Regular Expressions <https://www.facebook.com/events/144328186256512/>!\nWhen: Wednesday, February 14, 7 PM\nLanguage: Ukrainian\nDuration: 1 hour, followed by networking opportunities and snacks and drinks\nJoin us for our housewarming celebration on Wednesday, February 14 at\nGulliver Business Center, Tower B, floor 14.\nPlease, remember to bring your ID (a passport or a driver's license).\nYou'll need it to enter the business center. And don't forget to pick up a\nbracelet pass at the reception desk on the first floor!\n*If your plans change, we would appreciate it if you let us know. We will\ngive your seat to someone on the waiting list.*\nContact us:\nCall: 093 014 44 81\nEmail: viktoria.kolomiets@grammarly.com\nFollow us:\nFacebook <https://www.facebook.com/GrammarlyKyiv/>\nInstagram <https://www.instagram.com/grammarly_kyiv/>\nSee you soon at Grammarly Week!\n*Viktoria, *\n*Grammarly*\n"
+        },
+        "meetings": [
+            {
+                "subj": "Virtual Machine for Regular Expressions",
+                "loc": "Gulliver Business Center, Tower B, floor 14",
+                "start": "2018-02-14 19:00:00",
+                "end": "2018-02-14 20:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 8 May 2001 16:36:03 -0700 (PDT)",
+            "subject": "Meeting to discuss New Albany Accounting",
+            "payload": "When: Thursday, May 24, 2001 10:30 AM-11:00 AM (GMT-06:00) Central Time (US & \nCanada).\nWhere: 2378 (Georganne's Office)\n*~*~*~*~*~*~*~*~*~*"
+        },
+        "meetings": [
+            {
+                "subj": "Meeting to discuss New Albany Accounting",
+                "loc": "2378 (Georganne's Office)",
+                "start": "2001-05-24 10:30:00",
+                "end": "2001-05-24 11:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 11 Jun 2002 13:21:26 -0700 (PDT)",
+            "subject": "Call Brian Rickers /Sempra regarding Bridgeline gas.  Phone\n 203-355-5053",
+            "payload": "6/17/02 did not call, we are not sure if we are going to be able to sell the Bridgeline Storage gas and it also sounds like Oxy is willing to take all of the gas if we don't sell any to Bridgeline."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Sun, 24 Feb 2002 21:13:39 -0800 (PST)",
+            "subject": "A.Word.A.Day--impresario",
+            "payload": "impresario (im-pruh-SAR-ee-o) noun\n   1. An organizer, promoter, or manager of public entertainments, such as\n      a ballet, opera, concert, or theater company.\n   2. Any manager or director.\n[From Italian impresario (one who undertakes a business), from impresa\n(undertaking), from imprendere (to undertake).]\n   \"Even on Broadway, few stars have crashed as spectacularly as Garth\n   Drabinsky, the impresario behind Ragtime, theatreland's highest-grossing\n   show.\"\n   From Riches to Ragtime, The Economist (London), Aug 15, 1998.\n\"All the world's a stage, / And the men and women merely players: / They\nhave their exits and their entrances; / And one man in his time plays\nmany parts.\" So wrote our friend Bill Shakespeare some 400 years ago in\none of his most profound observations on human condition. Yet, we often\ntreat this life as if we really are the people we're playing. Imagine how\nfew troubles we might have if we remember it's only a role we are playing.\nAll we need to do is to play it as best we can and then gracefully exit\nthe stage.                                                         -Anu\nToday's AWAD is sponsored by NannyTax, Inc., providing tax compliance services\nto employers of domestic help. For useful information and a free consultation,\nplease visit: http://www.nannytax.com\n............................................................................\nAn honest man can feel no pleasure in the exercise of power over his fellow\ncitizens. -Thomas Jefferson, third US president, architect and author\n(1743-1826)\nSend your comments to anu@wordsmith.org. To subscribe or unsubscribe, send\na message to wsmith@wordsmith.org with \"Subject:\" line as \"subscribe <Name>\"\nor \"unsubscribe\". Archives, FAQ, gift subscription form, bulletin board,\nand more at http://wordsmith.org/awad/\nPronunciation:\nhttp://wordsmith.org/words/impresario.wav\nhttp://wordsmith.org/words/impresario.ram"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 7 Feb 2002 21:03:17 -0800 (PST)",
+            "subject": "A.Word.A.Day--kilkenny cats",
+            "payload": "kilkenny cats (kil-KEN-ee kats) noun\n   People who fight relentlessly till their end.\n[From a pair of proverbial cats in Kilkenny who fought till only their tails\nwere left.]\nAccording to a story, some people in the town of Kilkenny in Ireland enjoyed\ntying the tails of two cats and watching them fight till only their tales\nwere left behind. Most likely the story is a parable of a contest between\nKilkenny and Irishtown, two municipalities which fought about their boundaries\ntill little more than their tails were left. Here is a popular limerick\n(another word that takes its origins from the name of an Irish town) about\nthe cats:\n\"There wanst was two cats of Kilkenny\nEach cat thought there was one cat too many\nSo they fought and they fit\nAnd they scratched and they bit\n'Til instead of two cats there weren't any.\"\n   \"When Lord Cranborne placed Hatfield House at the disposal of Unionists\n   to talk things through in November 1997, the result was a meeting after\n   the style of the fighting Kilkenny cats.\"\n   A Man of Parts, The Economist (London), Apr 15, 2000.\nThis week's theme: toponyms or words derived from place names.\nToday's AWAD is sponsored by NannyTax, Inc., providing tax compliance services\nto employers of domestic help. For useful information and a free consultation,\nplease visit: http://www.nannytax.com\n............................................................................\nNobody in the game of football should be called a genius. A genius is\nsomebody like Norman Einstein. -Joe Theisman, Former quarterback\nSend your comments to anu@wordsmith.org. To subscribe or unsubscribe, send\na message to wsmith@wordsmith.org with \"Subject:\" line as \"subscribe <Name>\"\nor \"unsubscribe\". Archives, FAQ, gift subscription form, bulletin board,\nand more at http://wordsmith.org/awad/\nPronunciation:\nhttp://wordsmith.org/words/kilkenny_cats.wav\nhttp://wordsmith.org/words/kilkenny_cats.ram"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Thu, 13 Sep 2001 12:02:05 -0700 (PDT)",
+            "subject": "Budget mtg - Ken Lay  (mg/Sharron x37094)",
+            "payload": "From: Rick Causey\nWE HAVE RESCHEDULED THE BUDGET MEETINGS AS FOLLOWS:\n FRIDAY, SEPTEMBER 14, 2001\n   10:00 - 1:00\n \nEB50M DINING.\nATTENDEES:\nKEN LAY\nGREG WHALLEY\nMARK FREVERT\nRICK CAUSEY\nBOB BUTTS\nMARK LINDSEY \nAND AS FOLLOWS \n10:00 - 10:15\nOVERVIEW-RICK CAUSEY\n10:15 - 11:00\nSTEVE KEAN\n11:00 - 11:15\nRICK BUY\n11:15 - 11:30\nANDY FASTOW\n11:30 - 11:45\nJIM DERRICK - ROB WALLS\n11:45 - 12:00\nMARK KOENIG\n12:00 - 12:15\nBILLY LEMMONS\n12:15 - 1:00\nRICK CAUSEY\nPlease call me at X37094 if you have any questions."
+        },
+        "meetings": [
+            {
+                "subj": "Budget mtg",
+                "loc": "EB50M DINING",
+                "start": "2001-09-14 10:00:00",
+                "end": "2001-09-14 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 3 May 2000 02:46:00 -0700 (PDT)",
+            "subject": "2000 Weekly Cost Reports",
+            "payload": "Attached are the 2000 Weekly Cost reports for the week ending April 28th. If \nyou have any questions, please give me a call.  \nThanks\nAmy Spoede (formerly Copeland)\n3-7805"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 29 Oct 2001 06:39:39 -0800 (PST)",
+            "subject": "ECN 43C1 ENW Employee Breakfast",
+            "payload": "Please join me for breakfast on Tuesday, October 30 at 8:30 a.m. in ECN 43C1.  \nYou were randomly selected to participate in a discussion about recent events occurring at the company, see what management can do going forward and ways we can improve employee morale.\nI look forward to seeing you there.\nGreg Piper"
+        },
+        "meetings": [
+            {
+                "subj": "ENW Employee Breakfast",
+                "loc": "ECN 43C1",
+                "start": "2001-10-30 08:30:00",
+                "end": "2001-10-30 09:30:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Mon, 17 Sep 2001 08:09:43 -0700 (PDT)",
+            "subject": "Albany Power Plant mtg. w/ S. White, , L. Fischer, S. Konur",
+            "payload": "Sorry for the change in meeting times.  I had a meeting come up tomorrow that I have to go to at this time and our schedules didn't work until Thursday.  Is this too late?\nStacey"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 9 Apr 2001 08:57:00 -0700 (PDT)",
+            "subject": "(MS-20) NOTICE OF INTENTION TO TRANSFER MEMBERSHIP",
+            "payload": "Member Services\nNotice No. MS-20\nApril 9, 2001\nCOMMODITY EXCHANGE, INC.\nNOTICE OF INTENTION TO TRANSFER MEMBERSHIP\nNotice of Intention to Transfer Membership has been posted on the bulletin board of the Exchange by:\nMark Cricco (MEC-7995)\nIn connection therewith, notification of any claims against the aforementioned individual arising out of transactions executed on the Exchange up to the close of business on April 9, 2001, must be submitted to the Corporate Secretary's Office within ten (10) days.\nInquiries regarding the above should be directed to the Member Services Department at (212) 299-2370.\nNAME CHANGE FOR CLEARING MEMBER FIRM\nPlease be advised that the Exchange has been notified that effective April 2, 2001, Geldermann, Inc. (#358) has changed it=01,s name to Man International Inc.\nFurthermore, be advised that the Exchange has been notified that effective April 2, 2001, E.D.F. Man International Inc. (#330) has changed it=01,s name to Man Financial Inc.\nInquiries regarding the above should be directed to the Member Services Department at (212) 299-2370.\n__________________________________________________\nPlease click on the link below to indicate you have received this\nemail.\n\"http://208.206.41.61/email/email_log.cfm?useremail=3Dmark.taylor@enron.com&refd\noc=3D(MS-20)\"\nNote: If you click on the above line and nothing happens, please copy\nthe text between the quotes, open your internet browser,\npaste it into the web site address and press Return.\n"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 26 Nov 2001 07:37:12 -0800 (PST)",
+            "subject": "Meeting Today",
+            "payload": "Per Laura Luce,\nA meeting has been scheduled to take place today @ 11:45 AM, in ECN 6116.  Please accept this invitation, as it will automatically populate onto your schedule.\nThank you,\nIrena Hogan"
+        },
+        "meetings": [
+            {
+                "subj": "Meeting Today",
+                "loc": "ECN 6116",
+                "start": "2001-11-26 11:45:00",
+                "end": "2001-11-26 12:45:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 7 Aug 2001 07:09:51 -0700 (PDT)",
+            "subject": "KCS Insurance Wrap Meeting",
+            "payload": "Please plan to attend the following meeting:\nSUBJECT:\nKCS Insurance Wrap\nDATE:     \nTue., Aug. 7, 2001\nTIME:       \n1:00 - 2:00 p.m.\nLOCATION:\nEB-3259\nAny questions, contact Eric Boyt at Ext. 5-7754"
+        },
+        "meetings": [
+            {
+                "subj": "KCS Insurance Wrap Meeting",
+                "loc": "EB-3259",
+                "start": "2001-08-07 13:00:00",
+                "end": "2001-08-07 14:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 1 Nov 2000 06:22:00 -0800 (PST)",
+            "subject": "Sithe Transaction Agreements",
+            "payload": "Ruth,\n Please review to verify that I have included all of your changes.  I believe \nthat the language in the first 3 cover us if the last agmt isn't done, \notherwise, the last one covers the trueup of negative values.  Do you \nconcur?  Please let me know if these are okay, and I will get my secretary to \ndeliver to you originals on ENA stationary."
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Mon, 26 Nov 2001 07:37:12 -0800 (PST)",
+            "subject": "Meeting Today",
+            "payload": "Per Laura Luce,\nA meeting has been scheduled to take place today @ 11:45 AM, in ECN 6116.  Please accept this invitation, as it will automatically populate onto your schedule.\nThank you,\nIrena Hogan"
+        },
+        "meetings": [
+            {
+                "subj": "Meeting Today",
+                "loc": "ECN 6116",
+                "start": "2001-11-26 11:45:00",
+                "end": "2001-11-26 12:45:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 20 Feb 2001 05:14:00 -0800 (PST)",
+            "subject": "NomLogic",
+            "payload": "Carrie -\nAttached is the final Annex based upon the draft I forwarded on 2/14 and your \ncomments to same.  I believe I have captured all of your comments.\nPlease let me know if there is anything further that you should need.\nMark\nSenior Counsel, ENA\nPhone:     713-345-8897\nFacsimile: 713-646-3940\nE-Mail:      Mark.Greenberg@enron.com"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Wed, 27 Jun 2001 14:30:31 -0700 (PDT)",
+            "subject": "Status meeting:  ERMT database migration to Oracle 8i",
+            "payload": "All,\nPlease plan to attend the project status meeting for the ERMT database migration to Oracle 8i, scheduled for July 14.  If you're unable to attend, please send a representative on your behalf.\nThanks & regards,\nKarima Husain\nProject Manager, TAGG/ERMS\n(713) 345-7252"
+        },
+        "meetings": [
+            {
+                "subj": "ERMT database migration to Oracle 8i",
+                "loc": "",
+                "start": "2001-07-14 12:00:00",
+                "end": "2001-07-14 13:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Wed, 8 Aug 2001 11:22:13 -0700 (PDT)",
+            "subject": "Farewell to Philip Mayor",
+            "payload": "As all of you know, Philip Mayor is a Summer Intern and will be leaving Enron\nthis Friday, Aug. 10th.\nThe Flying Saucer is located on 705 Main. (Corner of Main and Capital).\nThanks,\nRain"
+        },
+        "meetings": []
+    },
+    {
+        "email": {
+            "date": "Fri, 20 Apr 2018 08:01:27 -0000",
+            "subject": "Reminder for #kievfprog Spring 2018",
+            "payload": "|  |\nFind events My Tickets  \n  \n---|---  \n|  |  |\n##  #kievfprog Spring 2018 is Sunday at 11:00 AM\nOrganized by Vladimir Kirillov @ #kievfprog  \n  \n---  \n|  \n---  \n  \n##  Don't forget your tickets\n|  |  Mobile Tickets  \n---  \n|  |  Available on  \nApp Store  \n---|---  \n|  \n---  \n|  |  Add to  \nWallet  \n---|---  \nor  \n---  \n|  Paper Tickets  \n---  \n  \nOpen the email attachment  \nor download here  \n  \n|  \n---  \n  \n##  Questions about this event?\n|\nContact the organizer at vlad@kirillov.im  \n  \n---  \n|  \n---  \n|\n##  About this event\n|  |\nSunday, April 22, 2018 from 11:00 AM to 4:00 PM (EEST)  \n  \n---|---  \n|  Coworking Platforma Leonardo  \n52/17 Volodymyrska Street  \n01030 Kyiv  \nUkraine  \n|\nAdd to my calendar:\nGoogle * Outlook * iCal * Yahoo  \n  \n---  \n|  |  |  |  |\n##  Create your own event\nAnyone can sell tickets or manage registration with Eventbrite.\nLearn More  \n  \n---  \n|  \n---  \n|  |  |  |\n##  Discover great events\nFind local events that match your passions.\nSee events  \n  \n---  \n|  \n---  \n|  \n---  \n  \nThis email was sent to JohnSmith@gmail.com\nEventbrite | 155 5th St, 7th Floor | San Francisco, CA 94103\nCopyright (C) 2018 Eventbrite. All rights reserved."
+        },
+        "meetings": [
+            {
+                "subj": "#kievfprog Spring 2018",
+                "loc": "Coworking Platforma Leonardo 52/17 Volodymyrska Street 01030 Kyiv Ukraine",
+                "start": "2018-04-22 11:00:00",
+                "end": "2018-04-22 16:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Fri, 4 Jan 2002 14:58:53 -0800 (PST)",
+            "subject": "ECN 8-C-1 - EES Invoicing Issues - Please review attachment (Brenda\n Herod)",
+            "payload": "When: Monday, January 07, 2002 9:00 AM-11:00 AM (GMT-06:00) Central Time (US & Canada).\nWhere: ECN 8C1\n*~*~*~*~*~*~*~*~*~*\nCall in number:  800.711.8000\nAccess code:  3325518\n <<bankruptcy_invoicingquestions.xls>>"
+        },
+        "meetings": [
+            {
+                "subj": "EES Invoicing Issues",
+                "loc": "ECN 8C1",
+                "start": "2002-01-07 09:00:00",
+                "end": "2002-01-07 11:00:00"
+            }
+        ]
+    },
+    {
+        "email": {
+            "date": "Tue, 8 May 2001 12:14:21 -0700 (PDT)",
+            "subject": "Steve Mitnick - Telephone Call (He will call you) re: Competitive\n Data for Power Markets",
+            "payload": "You knew Steve when he was Sr. Executive with Hagler Bailey - He is not CEO of \nEnergy Leader\nWould like to talk to you for approximately 15 minutes regarding Competitive \nData for Power Markets\nHe will call you at 4:00 PM on Monday the 14th.  If you cannot do \nthat time, please\ncall him at 202-997-0924"
+        },
+        "meetings": [
+            {
+                "subj": "Steve Mitnick - Telephone Call",
+                "loc": "",
+                "start": "2001-05-14 16:00:00",
+                "end": "2001-05-14 16:15:00"
+            }
+        ]
+    }
+]
